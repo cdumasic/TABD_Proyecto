@@ -1,0 +1,5 @@
+Indicador:
+- Ausencia por parte del gobierno en la concientizacion del ciudadano en la proteccion del medio ambiente. Meta:
+- Fomentaremos la educacion de conservacion del medio ambiente por medio del acceso a la informacion y participacion ciudadana. Problema: Deficiente generacion de energia limpia. Objetivo:
+- Como parte de nuestro Plan Energetico Nacional, priorizaremos la generacion de energia limpia hidroelectrica, desarrollando concesiones de generacion, transmision y distribucion electrica, y fomentaremos, mediante incentivos a la inversion privada, electricidad para los pueblos rurales y aislados, destinada a mejorar la calidad de vida de todos los ciudadanos. Indicador:
+- Falta de adopcion de politicas en generar energia limpia y el mantenimiento de la energia termica generada por hidrocarburos, como gas, petroleo y diesel, generando particulas (PM 2.5), dioxido de azufre y de nitrogeno que afectan la calidad del aire.

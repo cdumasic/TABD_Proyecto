@@ -1,0 +1,5 @@
+* Separacion de la funcion de rectoria y la funcion de prestacion en el sector
+publico. * Separacion de funciones de financiamiento y prestacion en EsSalud. * Transformacion del SIS en IAFAS y articulacion con la IAFAS EsSalud. * Creacion de un Fondo para las enfermedades de alto costo. * Fortalecimiento de la prestacion, prioritariamente en el primer nivel. * Ampliacion del segundo y tercer nivel. * Incremento de camas hospitalarias. * Articulacion territorial del tercer nivel de atencion en el nivel regional,
+macroregional o nacional. 2.3. Retos para la eficacia del derecho a la salud. a. SUSALUD
+En primer lugar, es necesario la reformulacion del rol sancionador de
+SUSALUD, privilegiando la prevencion, orientacion y composicion.

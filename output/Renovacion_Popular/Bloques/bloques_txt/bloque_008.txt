@@ -1,0 +1,4 @@
+Objetivo:
+- Crearemos el Sistema de Tambos para tener abastecimiento preventivo y medicinas. Implementaremos casas termicas y cobertores que protejan de las bajas temperaturas y se cuide a los animales que son principal fuente de ingresos de los mas pobres. Indicador:
+- Ausencia de orientacion y capacitacion por parte de las autoridades a los habitantes que viven en zonas altoandinas. Meta:
+- Reduciremos los impactos negativos para la poblacion, del friaje en zonas altoandinas por medio de convenios que capaciten la forma resguardar y mejorar las condiciones de vida de las personas y animales. Problema: Deficit de pescado para la mesa popular.

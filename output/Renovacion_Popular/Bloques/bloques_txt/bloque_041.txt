@@ -1,0 +1,4 @@
+Meta:
+- Implementaremos mas lineas de transporte urbano a nivel nacional. Problema: Deficiente Infraestructura vial a nivel nacional. Objetivo:
+- Promoveremos decididamente la rehabilitacion y ampliacion de la Red Vial Nacional, en especial las carreteras de penetracion, que seran autopistas de cuatro carriles; participaran en su construccion batallones de ingenieria de las FFAA. Estas permitiran el desarrollo economico y social, y a lo largo de su recorrido se incrementara el turismo receptivo y mejorara las cadenas productivas para el despegue de las regiones. Indicador:
+- La problematica de conexion entre los pueblos del Peru es complicada por falta de carreteras y la falta de implementacion de vias y autopistas.

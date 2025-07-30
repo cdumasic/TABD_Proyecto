@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+chromadb/*.sqlite3
+chromadb/*.lock
+ScriptsxPartido/
+Validacion/
+venv/

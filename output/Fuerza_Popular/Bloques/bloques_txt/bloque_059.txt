@@ -1,0 +1,7 @@
+b. Aplicar rastreo de contactos de los infectados detectados tempranamente. Este rastreo se hara mediante el uso de call centers (para el infectado y sus
+contactos conocidos) y de aplicativos en celulares que permitan via Bluetooth
+detectar contactos no conocidos de los infectados. c. Aislar domiciliariamente a los infectados otorgando ayuda alimentaria (bolsas
+de comida dejadas en puertas de las casas) y medicamentos, si fuera el caso,
+para que el aislado no se vea obligado a salir. d. Hacer una administracion adecuada y paulatina de vacunas que hayan
+demostrado carencia de efectos adversos y que tengan una eficacia de un
+minimo de 70% (no de 50% que es el umbral que aplicara el fabricante).

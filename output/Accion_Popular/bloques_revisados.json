@@ -1,0 +1,1316 @@
+[
+  {
+    "id": "Accion_Popular_001",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "POLITICAS GENERALES MULTISECTORIALES\n1. DESARROLLO HUMANO\nPara que los peruanos logren su realizacion en todas sus dimensiones y\ncapacidades deben gozar de sus plenos derechos humanos, principalmente los\nderechos a la vida, al trabajo, a la identidad, educacion, a la salud y a la justicia,\ncreando las mejores oportunidades para todos; asi como tambien la reforma del\nsistema de pensiones que asegure a los jubilados una pension digna. Tambien\nconsideramos como un derecho Humano a ser garantizado por el Estado el\nconsumo del agua potable para todos sin distincion, de igual manera\nconsideramos un derecho humano el tener a disposicion el uso de internet que\nson aspectos basicos de lucha contra la pobreza, la modernizacion del Estado y la\nsistematizacion de las empresas del Peru.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_002",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "2. DESARROLLO SOSTENIBLE - MEDIO AMBIENTE\nDebido al consumismo y cambios de vida como resultado del crecimiento\neconomico, poblacional y ambiental, se ha producido un incremento de las\nemisiones GEI a nivel mundial y nacional, por ello planteamos manejar el\nterritorio nacional, de modo racional y sostenible, aprovechando su mega\ndiversidad en armonia con el ambiente, generando una sostenibilidad economica,\nambiental y social en beneficio de todos los peruanos. Combatiremos las practicas\nilicitas (tala y mineria ilegal), se trabajaran los ciclos hidrologicos, se protegeran\nlos ecosistemas, se impulsara la produccion de energias limpias renovables, se\ntrataran los pasivos ambientales, plan de residuos solidos, impulsaremos el\nordenamiento territorial, los estandares de calidad del aire. Impulsaremos el\napoyo a las empresas que operan Residuos de Aparatos Electricos y Electronicos\n(RAEE) a nivel nacional con la finalidad de darles soportes para que se amplien y\nmantengan dicha actividad.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_003",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "3. DESARROLLO ECONOMICO, COMPETITIVIDAD E INFRAESTRUCTURA\nPromover una economia competitiva y diversificada; integrada por la vialidad, el\ntransporte y la conectividad, desplegaremos inversion en infraestructura sanitaria\ny equipamiento de hospitales, promoveremos su interconexion digital e historia\nclinica electronica para extender la atencion via telemedicina y dotar de\ninfraestructura a los centros de atencion primaria para priorizar tambien la\nmedicina preventiva, pondremos foco tambien a la infraestructura educativa para\npotenciar la teleeducacion en todos los rincones del pais, articularemos los\nmercados y las cadenas de comercializacion para generar riqueza, mediante el\nimpulso de la inversion publica y privada, y por la aplicacion de la ciencia y la\ntecnologia, para la creacion y multiplicacion de empleo digno y el teletrabajo, con\nmayor valor agregado y una justa distribucion del ingreso y la riqueza, teniendo\ncomo soporte una continua capacitacion tanto en la formacion basica como en la\nproductiva. Es necesaria tambien una reforma tributaria que nos permita alcanzar\nuna real justicia social en la redistribucion de los escasos recursos que administra\nel Estado.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_004",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "4. IDENTIDAD NACIONAL, CULTURA Y TURISMO\nFortalecer la identidad nacional y acrecentar la autoestima personal,\nreconociendo y valorando nuestra multiculturalidad y el legado historico de\nnuestros antepasados, es lo que los acciopopulistas definimos como \"La\nConquista del Peru por los peruanos\". Por ello continuaremos posicionando en\ntodos los niveles, nuestra marca Peru, valorando y enalteciendo nuestras\nfortalezas culturales, gastronomicas y geograficas, motivando el turismo interno y\nexterno, poniendo en valor nuestros restos arqueologicos y difusion de las danzas\ny costumbres de los pueblos para su mayor atraccion turistica. Es importante\ntambien fortalecer la malla curricular de estudiantes secundarios con enfoque a\neducacion civica, musica y artes plasticas segun la region donde se encuentren de\ntal manera que se potencie el amor y valor a nuestras expresiones locales,\nregionales y nacionales, es importante incluir la ensenanza del quechua.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_005",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "5. REFORMA DEL ESTADO \nReconstruir un estado descentralizado y eficaz por una reforma radical de la administracion publica, del sistema politico, electoral y judicial, para lograr una autentica transformacion cultural que practique y promueva la honestidad, la veracidad y la laboriosidad; a traves de la educacion, y la transparencia en todos sus actos. Es necesario el fortalecimiento del Regimen Democratico (conjunto de reglas y procedimientos que determinan el acceso al poder publico) para que se desarrollen elecciones regulares libres y justas promoviendo la competencia democratica el pluralismo y la alternancia en el poder. Se debe seguir promoviendo la igualdad politica entre los electores quienes tienen derecho a votar y a poder ser eventualmente candidatos alcanzando la igualdad politica de un elector un voto con una amplia proteccion de los derechos civiles donde se garantice la libertad de expresion, la libertad de asociacion y la libertad de protesta. Exigir el ejercicio real del poder, respondiendo a las demandas de las personas que lo han elegido, no debe existir un poder no electo que gobierne, por ello el Gobierno debe de dar cuenta a la sociedad por las acciones que realiza por las decisiones que toma.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_006",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "5. REFORMA DEL ESTADO \nDebe primar el Estado de Derecho donde primen las Leyes, los Procesos y las Razones donde la Constitucion Politica del pais este por encima de cualquier ciudadano. Es importante tambien consensuar con los representantes de la prensa nacional (escrita, radial y televisiva) con la finalidad de menguar la noticia que dan a la poblacion un clima\nde inseguridad, esto es necesario a fin de que las medidas que se ejecuten en la lucha contra el delito tengan efecto positivo.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_007",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "6. SEGURIDAD NACIONAL, LUCHA CONTRA LA CORRUPCION Y NARCOTRAFICO \nSe necesita voluntad politica e inteligencia policial para enfrentar el crimen organizado, la corrupcion de gran escala, el narcotrafico y las mafias instauradas a nivel nacional. Propondremos: Impulsaremos la reforma carcelaria a fin de convertir a las carceles en centros productivos, de readaptacion de reos, de auto mantenimiento y aisladas de las principales ciudades del pais. Formalizar la evaluacion obligatoria de todos los mandos medios de la administracion publica, sobretodo de quienes tienen responsabilidad de aprobar procesos de licitaciones, logisticos y de compras a fin de vigilar y detectar actos de corrupcion. Reforzar el trabajo de inteligencia policial e investigacion criminal. Con relacion al narcotrafico se pondra mayor foco en los aeropuertos y puertos en convenios con la Administracion para el Control de Drogas - DEA (Drug Enforcement Administration) para un control directo y mayor vigilancia del trafico ilegal de narcoticos.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Accion_Popular_008",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "6. SEGURIDAD NACIONAL, LUCHA CONTRA LA CORRUPCION Y NARCOTRAFICO \nImplementacion de las Fiscalias especializadas en Lavado de Activos, fortalecer la Unidad de inteligencia financiera. Desarrollaremos politicas para mitigar todo tipo de violencia familiar, principalmente de violencia a la mujer. En nuestro pais 65 de cada 100 mujeres han sufrido de algun tipo de agresion en su vida, entre enero y octubre de 2020 se han registrado 111 feminicidios, 9,514 mujeres desaparecidas y 79,220 mujeres atendidas por violencia, debemos cambiar la percepcion que 3 de cada 10 personas cree que, si una mujer viste provocativamente, esta buscando que la acosen sexualmente. Que las camaras de vigilancia esten interconectadas en linea y las unidades policiales ubicadas en las zonas del mapa del delito, de tal manera que la coordinacion entre el que monitorea la camara y el patrullero sea inmediata y se intercepte al delincuente. Que no sirvan solo para grabar el delito.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Accion_Popular_009",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "7. EMPLEO\nNecesitamos generar cinco millones de empleos en los proximos cinco anos para\ncontrarrestar las secuelas de la pandemia. La politica de empleo debe funcionar\ncomo mecanismo para reducir la desigualdad en la distribucion del ingreso y\nluchar contra la pobreza en el Pais. Por ello nos fijamos en los siguientes\nobjetivos:\nFomentar el emprendimiento empresarial desde la escuela y universidad,\nfortaleciendo mecanismos de asistencia tecnica y financiera para las PYMES\npotenciandolas principalmente para el mercado externo, que permitan mejorar\nsu eficiencia economica, el refuerzo de la confianza de clientes, inversores,\nproveedores y empleados como garantia de un circulo virtuoso de la\nsostenibilidad economica, social y medioambiental, basandose en su\nrentabilidad.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_010",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "7. EMPLEO\nIncentivar toda actividad empresarial formal y canalizar la informalidad y elusion\nlaboral para que en el mas corto plazo logre la formalidad. La Formacion\nProfesional estara en funcion de las necesidades empresariales cuyas carreras y\ncurriculos se disenaran entre universidad - empresa - estado, para evitar el\ndesempleo universitario. Legislar entorno a la creacion de contratos laborales estables de media jornada\ny/o estacionales; asi como tambien otorgar incentivos tributarios a quienes\ncontraten personas entre 55 y 65 anos de edad. Disenar politicas de reconversion\nlaboral a cargo del Ministerio de Trabajo creando una entidad que monitoree la\noferta y demanda laboral a nivel nacional con la finalidad de capacitar y ocupar a\nla PEA desplazada ya sea por el COVID-19 o por la digitalizacion de los procesos\nde produccion de las empresas, hacia actividades dependientes nuevas o en\nproyectos de emprendimiento que generen empleo impulsando la creacion de\nPYMES en todos los sectores economicos del pais.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_011",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "7. EMPLEO\nPor lo tanto, la estrategia reactivadora para impulsar la produccion y generar\nempleo formal, debe considerar acciones de estimulo diferenciadas para la gran\nempresa, mediana empresa y pequenas empresas, debemos tener presente que\nel Estado no tiene ni tendra capacidad para generar empleo productivo y que\nesta se soportara en la iniciativa privada principalmente en el sector de PYMES,\nen las que debemos hacer esfuerzos para transformar la inversion en PYMES\npromoviendo una demanda de financiacion de pymes menos dependientes de\nlas entidades de credito para reducir el riesgo sistemico en futuras crisis por la\ndependencia casi exclusiva de la banca comercial y para facilitar sus procesos de\nexpansion.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_012",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "8. SALUD\nEs un derecho fundamental de las personas y debido a la tendencia del\nenvejecimiento poblacional, al bono demografico y a la migracion del campo a la\nciudad, se debe abordar para potenciar acciones sobre el cambio del perfil\nepidemiologico por el aumento previsto de enfermedades no transmisibles, se\nimpulsara la innovacion en la salud sobretodo en Telemedicina, bio gerontologia,\nexoesqueletos en impresion 3D e Historia Clinicas electronicas, politicas de salud\nmental, mejorar la calidad de atencion en los centros de salud y de la seguridad\nsocial, pondremos foco a los cambios medioambientales que impactan a la salud,\nabaratar el acceso de las medicinas exonerandolas del IGV o del ISC.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 1,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_013",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "8. SALUD\nSegun el Dr.Cesar Palomino ex Decano del CMP tenemos un deficit de 16,500 medicos\nespecialistas y segun la OMS se recomienda 1 medico por cada 1,000 habitantes\ny en el Peru tenemos 1 medico por 10,000 habitantes. Incentivaremos al\npersonal medico con mejor infraestructura, capacitacion e incentivos salariales. Garantizar que todos los hogares peruanos tengan acceso a servicios de salud de\ncalidad y adecuados a su cultura, de manera especial los hogares que viven en\ncondiciones de pobreza, por lo que se debe efectivizar el acceso universal de\nsalud a toda la poblacion. Incremento en 50% del gasto publico en salud per\ncapita en la poblacion mas pobres del Peru. Potenciar atencion primaria en la red\nbasica de salud, desarrollando centros de prevencion, control, vigilancia y\nrespuesta sanitaria, organizandolos segun niveles de complejidad y problemas de\nsalud existentes. Esto evitara la congestion de pacientes en hospitales donde solo\ndeben asistir pacientes de mayor complejidad de la enfermedad o a hacer\nintervenidos quirurgicamente. Dotar de infraestructura tecnologica y\nequipamiento moderno a postas y hospitales para facilitar al diagnostico y\ntratamiento de pacientes cronicos y geriatricos (evaluacion permanente).",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 1,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_014",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "8. SALUD\nMejorar los procesos de distribucion logistica de materiales e insumos en establecimientos de salud a nivel nacional, innovar tecnologicamente los servicios en consultorio implementando la Historia Clinica interconectada a toda la red asistencial entre postas y hospitales a nivel nacional. Coordinar la distribucion de medicinas a los domicilios de los pacientes, a fin de descongestionar las farmacias de las postas y hospitales a nivel nacional, tanto de los pacientes de ESSALUD como los del MINSA. Capacitar constantemente al personal auxiliar y de soporte en lo que se refiere a trato con pacientes, pues hay muchos casos de mala atencion. Desarrollar programas de capacitacion sanitaria y nutricional a toda la poblacion, poniendo enfasis en la poblacion rural y de extrema pobreza. Potenciar los mecanismos tecnologicos para desarrollar la telemedicina a fin de reducir brechas de atencion en salud en la poblacion que esta muy dispersa y/o distante de los centros de atencion de salud.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 1,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_015",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "8. SALUD\nModernizar todos los hospitales a nivel nacional, a fin de minimizar la evacuacion de pacientes criticos a los hospitales de la capital y descongestionar la saturacion en la atencion de pacientes. Asi como tambien dotarlos de capacidad para mitigar la atencion en eventos catastroficos sean epidemiologicos o provocados por desastres de los fenomenos teluricos y/o naturales. Construir mas postas medicas de atencion primaria bien equipadas, que permitan solucionar los problemas de salud y prevencion de enfermedades de baja complejidad. Cubrir el deficit de medicos y especialista, sobretodo en enfermedades degenerativas, cardiovasculares, geriatria y salud mental, para una adecuada prevencion del cuidado de la salud y de la atencion de dichas enfermedades, que van a demandar mayor atencion debido al envejecimiento demografico previsto en la tendencia poblacional. Desarrollar mecanismos de financiamiento solidarios y progresivos (pro-equidad), con subsidio del Estado focalizado en los pobres, que operen de la manera mas costo- beneficio, para lograr el aseguramiento universal a un plan basico de salud adecuado al perfil epidemiologico de cada espacio poblacional. Sistematizar los procesos logisticos y efectivizar el control del gasto a fin de evitar la corrupcion en los procesos de compras y de licitaciones para el abastecimiento de bienes y servicios a postas y hospitales.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 1,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_016",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "8. SALUD\nDar mayor autonomia a los hospitales publicos, eliminar las numerosas y contradictorias normas de caracter coercitivo que restringen el espacio de decision de los directores y gerentes de redes y jefes de centros y puestos de salud, a fin de que puedan generar iniciativas de gestion con otros modelos de atencion, garantizando la calidad del servicio y su accesibilidad a los mas pobres, prohibiendo las preferencias y argollas que se generan en la toma de decisiones, incluso en evitar las trabas para el traslado de los profesionales hacia las distintas redes de salud que mas cercanas tengan a su domicilio.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 1,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_017",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "OBEJETIVOS ESPECIFICOS\n1. NUEVO CONTRATO SOCIAL: PROPUESTA DE UNA NUEVA CONSTITUCION Y AMPARO EFECTIVO DE\nLOS DERECHOS CONSTITUCIONALES DE TODOS LOS PERUANOS. \nRequerimos un nuevo pacto social, el Bicentenario debera ser el punto de inflexion para pensar y actuar a\nfavor de un futuro comun como una aspiracion conjunta de todos los peruanos. Los tiempos han cambiado\ny se necesita nueva regulacion, nuevo contrato social, nueva carta fundamental para conseguir desarrollo y\nprogreso del pais, cautelando los grandes intereses nacionales y ademas nuestra riqueza natural. Ademas,\nla nueva carta constitucional debe proteger realmente los derechos constitucionales de las personas,\nconsagrados y que actualmente no se cumplen, los mismos que son inclusive incumplidos por el propio\nEstado.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_018",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "1. NUEVO CONTRATO SOCIAL: PROPUESTA DE UNA NUEVA CONSTITUCION Y AMPARO EFECTIVO DE\nLOS DERECHOS CONSTITUCIONALES DE TODOS LOS PERUANOS. \nEn este sentido proponemos el cambio constitucional y consecuentemente cambios legales e\ninstitucionales para que haya el amparo efectivo y real de los intereses de la nacion y de los derechos\nfundamentales de las personas en cualquier ambito, sea publico o privado. Esperamos que la composicion\ndel nuevo Congreso posibilite el dictado de una nueva constitucion o se haga por mandato de un\nreferendum. Si las fuerzas politicas no posibilitan el dictado de una nueva carta magna se propondra los\ncambios constitucionales especificos minimos que el pais requiere.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_019",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "2. TRABAJAR Y DEJAR TRABAJAR\nEstabilizar la politica para permitir la creacion de cinco millones de empleos en el periodo de cinco anos de\ngobierno, si las condiciones economicas no se siguen afectando por la continuacion de la pandemia.\nDesarrollo economico sostenible donde la sociedad y el estado auspicien y fomenten la formacion de\ncapital de los pequenos emprendimientos para que se refleje en la busqueda del empleo digno.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_020",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "3. LOGRAR LA REACTIVACION ECONOMICA LO ANTES POSIBLE\nLos efectos del manejo economico de la pandemia han provocado que el PBI se haya contraido en -12%, lo\nque ha generado que se pierdan 6.7 millones de empleos segun cifras del INEI. El deficit fiscal esta en -\n10.7% del PBI, y se ha apelado al endeudamiento publico para enfrentar los ingentes gastos, llevando a la\ndeuda publica a alcanzar el 35.4% del PBI, cuando el 2016 estuvo en 26%. Actualmente la actividad\neconomica se viene recuperando lentamente.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_021",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "3. LOGRAR LA REACTIVACION ECONOMICA LO ANTES POSIBLE\nProponemos la ejecucion de una politica expansiva con gasto eficiente, con la ejecucion de los proyectos de\ninversion publica de mayor impacto social, que tiene la cartera de proyectos del Estado, previa revision del\nMEF y del CEPLAN, a fin de recuperar no solo la economia sino el empleo perdido, incluso ampliarlo para\nalcanzar 5 millones de puestos de trabajo. En este sentido, seguiremos la tradicion politica de Accion\nPopular y del presidente Belaunde que tenia como lema TRABAJAR Y DEJAR TRABAJAR, el cual es vigente\nhoy mas que nunca por efectos de la pandemia, que ha causado, como se ha explicado la perdida de\nmillones de puestos de trabajo.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_022",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "3. LOGRAR LA REACTIVACION ECONOMICA LO ANTES POSIBLE\n\nOtorgaremos credito barato, mediante mecanismos de mercado, a las MYPES, que son el motor de la\neconomia nacional, pues representan el 95% de las empresas que existen en el Peru. La pandemia ha demostrado que la economia aplicada en nuestro pais desde hace varias decadas ha\ndebilitado y desmantelado el aparato productivo del Peru, al extremo que no se puede hacer ni siquiera\nmascarillas para la distribucion a la ciudadania. Hemos estado dependiendo en varios aspectos de otros\npaises, no tenemos tecnologia suficiente para darle valor agregado a las materias primas y por tanto\nmayores ganancias a los micros y pequeno empresarios, a los agricultores y a otros emprendedores. Por lo\nque ahora se tiene que des globalizar la economia en el Peru, priorizando y fortaleciendo el aparato\nproductivo nacional en todo sentido. Hoy con la pandemia hay mas pobreza y mayor desigualdad, situacion\nque hay que revertir con medidas sostenibles y viables.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_023",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "4. TENEMOS QUE RECONSTRUIR LOS AHORROS PUBLICOS\nEl Consejo Fiscal, ha senalado en su Informe 007-2020- CF que la \"respuesta de politica [economica y fiscal]\nfrente a los efectos del Covid-19 ha significado el uso de todo el espacio fiscal disponible previo a la crisis\"\n( del MMM), por lo que, \"bajo las perspectivas actuales y utilizando los supuestos del MMM\n2021-2024 el indicador de espacio fiscal es nulo para los proximos anos\" ( del MMM, nota 19). En otras palabras, ya no tenemos ahorros nacionales. Esto tiene que ser revertido, para recuperar nuestra\nfortaleza fiscal. En el primer ano, reconstruiremos las reservas del Fondo de Estabilizacion Fiscal, y la Reserva Secundaria de\nLiquidez, estableciendo mecanismos financieros y tributarios que permitan ingresos justos y suficientes\npara recuperar nuestros recursos fiscales y atender las apremiantes necesidades del pais.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_024",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "5. TENEMOS QUE RETORNAR AL MANEJO RESPONSABLE DE LA DEUDA PUBLICA\nEl propio Marco Macroeconomico Multianual 2021-2024(MMM) en su , reconoce que la deuda\npublica, en un escenario duro, podria trepar al 50% del PBI, si es que se materializaran pasivos\ncontingentes, y ademas, que los prestatarios del programa Reactiva Peru, eventualmente no devuelvan los\nprestamos, ya que el propio Consejo Fiscal, creado por la Ley 30099, que es una comision autonoma\nadscrita al Ministerio de Economia, en la opinion que emitio en su Informe 007-2020-CF en cumplimiento\ndel articulo 13 del Decreto Legislativo 1276 que aprueba el Marco de la Responsabilidad y Transparencia\nFiscal, ha senalado que esta previsto en el diseno del programa Reactiva Peru la materializacion del\nhonramiento de las garantias de por lo menos S/15,000 millones, entre el 2021 y el 2023.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_025",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "5. TENEMOS QUE RETORNAR AL MANEJO RESPONSABLE DE LA DEUDA PUBLICA\n\nSi se cumple la contingencia de que parte de los deudores de Reactiva Peru no cumplieran con pagar los\nprestamos, esto haria que la deuda publica se coloque inclusive por encima de lo previsto en el Marco\nMacroeconomico Multianual 2021-2023, ya que segun el Consejo Fiscal \"la probabilidad de ocurrencia de\nestos contingentes es elevada\", y que si se mantienen los niveles de gasto del MMM y la poca capacidad de\ngenerar mayores ingresos permanentes, la deuda publica a partir del 2030 en adelante NO SERIA\nSOSTENIBLE, segun -otra vez- el Consejo Fiscal. Por esta debilidad financiera, es que el gobierno ha aprobado un endeudamiento para el ano 2021 por\nS/47,000 millones de soles, que llevara la deuda publica a 38% del PBI, y luego como ya hemos visto,\nprogresivamente a mas del 50% del PBI.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_026",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "5. TENEMOS QUE RETORNAR AL MANEJO RESPONSABLE DE LA DEUDA PUBLICA\nAP tomara medidas y retornara a los niveles de endeudamiento publico a menos del 26% del PBI, que habia\nantes del ano 2016, porque un pais endeudado no tiene futuro. Se revisara los prestamos contraidos por el\npasado gobierno que endeuda al Peru por mas de cien anos, lo cual significa hipotecar a varias\ngeneraciones de peruanos.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_027",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "6. VERDADERA INCLUSION FINANCIERA PARA QUE LOS SECTORES DE BAJOS INGRESOS Y MYPES\nTENGAN CREDITOS BARATOS PARA SU DESARROLLO\nEn el stablishment actual los grandes beneficiarios del credito masivo y barato son las grandes empresas, y\nlos grupos economicos, pues los bancos les prestan los ahorros del publico. Sacan tambien estos fondos al\nexterior para maximizar sus ganancias a expensas del dinero de la gente, pagandoles ridiculas tasas de\ninteres pasivo, negandoles el credito, o prestandoles a tasas usureras, que a veces los esclavizan de por\nvida.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_028",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "6. VERDADERA INCLUSION FINANCIERA PARA QUE LOS SECTORES DE BAJOS INGRESOS Y MYPES\nTENGAN CREDITOS BARATOS PARA SU DESARROLLO\nEsta situacion no puede continuar. Haremos los cambios legislativos correspondientes, en el marco de la\nConstitucion, y mediante mecanismos de mercado, para que los ahorros del publico, sean para el publico,\nentre estos las personas de bajos ingresos y las MYPES, a costos competitivos, para que tambien tengan la\noportunidad de cambiar y mejorar sus vidas usando el ahorro de la sociedad.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_029",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "7. REDUCCION DRASTICA DE LA INFORMALIDAD ECONOMICA EN EL PAIS A TRAVES DE INCENTIVOS. Cualquier cambio para conseguir las obras que el Peru requiere mayor recursos economicos y por tanto es\ntambien necesario reducir sustancialmente los niveles de informalidad con los que funciona el pais, pero no\na traves de sanciones sino de incentivos a quienes hacen actividad comercial o economica.\nEl 75% de la economia es informal. O sea, los gobiernos de turno se han estado ocupando solo del 25% de\nla realidad y no de la totalidad de peruanos que producen riqueza. Nos proponemos reducir la informalidad\na 30% en los proximos cinco anos, para que tengamos un pais viable.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_030",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "8. REDUCCION DRASTICA DE LA INFORMALIDAD LABORAL\nLa informalidad laboral es consecuencia de la informalidad economica en que esta sumido el pais. Los\npocos intentos que se han hecho en el pasado para aprobar una Ley General del Trabajo, se han estrellado\ncon la constatacion de que tendria impacto en menos de un tercio de la PEA y esta reforma no seria\nsostenible.\nMientras solucionamos el problema estructural de la informalidad economica, es necesario, paralelamente\nemprender una reforma laboral que mejore las condiciones de la PEA. AP llevara a cabo una reforma laboral que consiga mejores condiciones de trabajo, remuneraciones\nrazonables y suficientes para los trabajadores, capacitacion permanente, seguridad social, seguro de salud,\nproteccion para el desempleo temporal, bonos de productividad y participacion real en las utilidades de las\nempresas.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_031",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "9. LA REDUCCION DE LA POBREZA TIENE QUE SER IRREVERSIBLE\nSe creia que cuando se logro reducir la pobreza a niveles del 21% el ano 2015, esta continuaria su reduccion\ncon la sola ejecucion de los presupuestos publicos. La realidad ha destruido estas suposiciones, con la\nllegada de la pandemia del Covid19, que ha conseguido que el pais retroceda diez anos atras. No hay un\nestudio serio aun, que haya medido el nivel actual de pobreza; pero calculos preliminares senalan que ha\nvuelto a aumentar diez puntos porcentuales, o sea, estaria en alrededor de 31% o mas. Esto estrategico y\ndemuestra lo fragil que eran los logros conseguidos.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_032",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "9. LA REDUCCION DE LA POBREZA TIENE QUE SER IRREVERSIBLE\n\nSe ha dicho, que esto podria revertirse el ano entrante, con el \"rebote\" de diez puntos porcentuales que\ndaria la economia; pero esto parece dificil de conseguir. Nuestra propuesta, es que la reduccion de la pobreza tiene que ser sostenible e irreversible. Para esto, se\nnecesita constituir un Fondo Especial Revolvente que pueda sostener y hasta reemplazar temporalmente\nlos ingresos que dejen de percibir los sectores vulnerables y asi puedan sostener tambien la demanda en la\neconomia, mientras esta se recupera.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_033",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "10. NO A LOS MONOPOLIOS Y A LOS OLIGOPOLIOS. SI A LA LIBRE COMPETENCIA\nAccion Popular, mediante su bancada parlamentaria, fue el primer partido que presento un Proyecto de Ley\npara el control previo de las fusiones empresariales, en el periodo parlamentario anterior, a fin de evitar los\nmonopolios u oligopolios perjudiciales para la libre competencia en el mercado y proteger el bienestar de\nlos consumidores. Este Proyecto de Ley fue desnaturalizado en su procesamiento parlamentario, y luego se\nsumaron numerosas iniciativas legislativas, para al final, salir aprobado por un decreto de urgencia, durante\nel receso parlamentario causado por la disolucion de este Poder del Estado, decreto que al revisarse fue\nencontrado inconstitucional, para finalmente estar nuevamente en discusion, en este Congreso, y -\nrepetimos- completamente desnaturalizado en relacion al Proyecto original que pertenece a AP.\nNosotros propondremos nuevamente el Proyecto de Ley de Accion Popular sobre control previo de\nfusiones, para garantizar verdaderamente la libre competencia y no permitir las practicas monopolicas y\nsus excesos, tal como actualmente sucede en la venta de medicinas y otros productos esenciales.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_034",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "11. LA REFORMA TRIBUTARIA:\nSe suele decir que la carga tributaria que pagan las empresas en el Peru es excesiva; pero esto no es cierto,\nporque tales afirmaciones se basan en las tasas que aparecen en la Ley. Sin embargo, la realidad es muy\ndistinta: el nivel de evasion tributaria del Impuesto a la Renta es de alrededor del 50%; y del IGV, es de\naproximadamente el 34%; y los niveles de elusion tributaria son igualmente de niveles altos,\naprovechandose de la debilidad institucional de nuestro pais. En este sentido, es pertinente evaluar las\nexoneraciones tributarias que le restan recursos al pais para atender sus necesidades.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_035",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "11. LA REFORMA TRIBUTARIA:\n\nPor esto, no nos puede sorprender que la presion tributaria este en 14%, muy por debajo del promedio de\nlos paises de America Latina que es de 23%; y lejisimos del promedio de los paises de la OECD, de 23.1%, el\nano 2018. Proponemos fortalecer la SUNAT y darle mayores facultades para se bajen sustancialmente los\nniveles de evasion y elusion tributaria. Otro aspecto central, es que se tiene que masificar en la poblacion la cultura tributaria, esto es, la\nconciencia de que todos tenemos que contribuir, segun nuestras posibilidades, al sostenimiento de los\ngastos del Estado. Hay un gran problema cultural en la evasion y la elusion tributarias, que tenemos que\ncambiar.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_036",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "12. EL BANCO CENTRAL DE RESERVA TIENE QUE REGULAR LAS TASAS DE INTERES DE LOS BANCOS\nCONFORME AL ARTICULO 84 DE LA CONSTITUCION. La regulacion de las tasas de interes de las empresas del sistema financiero, es uno de los temas tabu\ngobierno tras gobierno, a pesar de que hay un mandato claro de la Constitucion de hacerlo:\n\"Articulo 84deg.- (...) La finalidad del Banco Central es preservar la estabilidad monetaria. Sus funciones son:\nregular la moneda y el credito del sistema financiero (...)\"\nNosotros haremos que se cumpla este mandato constitucional, para acabar con las tasas leoninas que\nafectan a la ciudadania y a la micro y pequena empresa.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_037",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "12. EL BANCO CENTRAL DE RESERVA TIENE QUE REGULAR LAS TASAS DE INTERES DE LOS BANCOS\nLas tasas de interes en banca de consumo, no han hecho otra cosa que subir desmedidamente, los ultimos\n27 anos. Por ejemplo: un prestamo de consumo de S/ 1,000 pagadero a 12 meses, tiene una tasa de interes\nde hasta 228%. Una tarjeta de credito clasica en el sistema revolvente, tiene una tasa de interes de hasta 125%. Tambien\nson usureras las tasas de interes de los creditos a las pequenas empresas:\nPor ejemplo, por un prestamo para capital de trabajo por S/10,000 a 9 meses, la tasa de interes aplicada es\nde hasta 93%. Por un prestamo para activo fijo por S/ 20,000 a 24 meses, una pequena empresa tiene que\npagar tasas de hasta 100%.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_038",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "12. EL BANCO CENTRAL DE RESERVA TIENE QUE REGULAR LAS TASAS DE INTERES DE LOS BANCOS\nEsta conducta abusiva no se ve en otros paises:\nEn Colombia, en los creditos de consumo, la tasa de interes promedio es de apenas 18% para los creditos\nde consumo. Para los microcreditos, es de 37%. En Chile, las tasas de interes mas caras que se cobran por\ncreditos de consumo son de un promedio de 32%. En Mexico, las tasas de interes promedio para los\nprestamos personales (banca de consumo) son del orden de 24%. Inclusive, en los Estados Unidos de Norteamerica, las tasas para prestamos de consumo y prestamos\npersonales estan en promedio en 15%, y por cierto, se aplican topes maximos, en casi todos sus estados. La\nregulacion que realice el BCR, se hara con criterios tecnicos, tomando en cuenta, como un medidor\nreferencial, las tasas internacionales de paises con economias de mercado, comparables al Peru.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_039",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "13. EL DESAFIO DE DERROTAR LA PANDEMIA Y DEL ACCESO UNIVERSAL A LA SALUD. La pandemia el coronavirus que tiene escala mundial ha puesto al descubierto todas las carencias que el\nPeru sufre, entre ellas, del sistema de salud, donde los hospitales han colapsado, hay deficit de\nprofesionales de salud, ha fallado la provision de los equipos de bioseguridad, inclusive las mascarillas, se\nhan hecho compras deficientes de equipos medicos, oxigeno medicinal, ventiladores mecanicos, equipos\nUCI, medicamentos, etc, y las estrategias de contencion de la propagacion del virus no han tenido los\nresultados esperados. A la fecha hay un doloroso saldo de mas de 34,000 vidas humanas segun cifras\noficiales, aunque otras fuentes senalan que son mas compatriotas que han caido victimas de este virus, y ya\nel 25% de la poblacion del pais estaria contagiada.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 1,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_040",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "13. EL DESAFIO DE DERROTAR LA PANDEMIA Y DEL ACCESO UNIVERSAL A LA SALUD. \nEl Peru ocupa los primeros lugares en el mundo, en un ranking de 200 paises, en la tasa de mortalidad por\ncovid-19, puesto que esta en alrededor de 885 muertes por millon de habitantes. Por esto es necesario\ncambiar radicalmente las estrategias de lucha contra el Covid-19, que se quedara por lo menos un ano y\nmedio mas en su ciclo activo, a juzgar por la tasa de permanencia historica de estas pandemias o epidemias\nen el pasado, especialmente segun los registros de las denominadas \"pestes\" europeas en la edad media y\naun en el siglo XX. En este sentido, se llevara a cabo acciones de Estado a Estado y con empresas que\nofrezcan garantias claras para tomar determinadas medidas que enunciativamente pasamos a referir.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 1,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_041",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "13. EL DESAFIO DE DERROTAR LA PANDEMIA Y DEL ACCESO UNIVERSAL A LA SALUD. \nLas medidas principales son las siguientes:\nDistribucion de bienes sanitarios y medicinas, gratuitamente a sectores pobres, si es indispensable y\nurgente confinamientos focalizados y medidas de proteccion cuando haya rebrotes. Campanas de\nsensibilizacion para que la comunidad colabore con el cumplimiento de las medidas de seguridad. Equipamiento y fortalecer los hospitales, centros medicos y postas para seguir enfrentando el virus y\nposibles rebrotes, distribucion de equipos de bioseguridad a todo el personal de primera linea: medicos,\nenfermeras, tecnicos, obstetras, auxiliares de salud, policias, militares, bomberos, personal municipal que\nlabora en las calles, entre otros. Provision suficiente de oxigeno medicina, compra y realizacion de pruebas moleculares masivas,\ndistribucion gratuita de medicamentos esenciales para el tratamiento del Covid-19, asegurar la compra de\nla vacuna en el tiempo mas breve, vacunacion masiva apenas sea posible, acceso universal y\ndescentralizado a una cobertura de salud integral oportuna en consultas, intervenciones quirurgicas y otras\natenciones, priorizando la salud preventiva.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 1,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_042",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "13. EL DESAFIO DE DERROTAR LA PANDEMIA Y DEL ACCESO UNIVERSAL A LA SALUD. \nLa pandemia el coronavirus que tiene escala mundial ha puesto al descubierto todas las carencias que el\nPeru sufre, entre ellas, del sistema de salud, donde los hospitales han colapsado, hay deficit de\nprofesionales de salud, ha fallado la provision de los equipos de bioseguridad, inclusive las mascarillas, se\nhan hecho compras deficientes de equipos medicos, oxigeno medicinal, ventiladores mecanicos, equipos\nUCI, medicamentos, etc, y las estrategias de contencion de la propagacion del virus no han tenido los\nresultados esperados. A la fecha hay un doloroso saldo de mas de 34,000 vidas humanas segun cifras\noficiales, aunque otras fuentes senalan que son mas compatriotas que han caido victimas de este virus, y ya\nel 25% de la poblacion del pais estaria contagiada.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 1,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_043",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "14. ACCESO A LA SALUD PARA TODOS LOS PERUANOS, DESDE ANTES DE SU NACIMIENTO HASTA LA VEJEZ\n\nDe otro lado, estamos ante el inhumano sistema, que primero cobra, o pide que se adquiera por cuenta del\npaciente los insumos medicos para recien atender las necesidades del paciente. Esto tiene que acabar. Proponemos un sistema con garantia del Estado, donde los peruanos con menores recursos, accedan al\nsistema de salud sin requisito pecuniario alguno, sin tener que llenar previamente pagares en blanco, o\nentregar adelantos de pago como se hace ahora.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_044",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "15. ACCESO A LOS MEDICAMENTOS A PRECIOS QUE PUEDAN PAGAR LOS PERUANOS\nLos precios de los medicamentos en el Peru estan proporcionalmente, entre los mas caros del mundo. Esto\nse desprende de un mercado dominado por oligopolios, cuya excesivo afan de lucro, abusa de su posicion\ndominante, e impone precios inaccesibles para las grandes mayorias, e inclusive para las clases medias.\nLos gobiernos de los ultimos 30 anos se han puesto de costado ante esta situacion, que manifiestamente\natropella los derechos constitucionales a la salud y a la vida de todos los peruanos. Proponemos adoptar los estandares de la OECD para que se determinen los precios de los medicamentos,\nen funcion a los promedios de los precios internacionales de los mismos en paises con economias de\nmercado comparables al Peru.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_045",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "16. LA DESNUTRICION CRONICA EN LOS NINOS MENORES DE CINCO ANOS DEBE REDUCIRSE A CERO Y\nDESARROLLAR UNA POLITICA DE SEGURIDAD ALIMENTARIA. La desnutricion cronica nacional promedio en ninos menores de cinco anos, que acuden a los centros de\nsalud, segun el Instituto Nacional de Salud, es de 16.3% al primer semestre del 2019. O sea, casi la quinta\nparte de la poblacion infantil. Si bien los logros aqui han sido razonables en los ultimos nueve anos; sin\nembargo, este indicador es inaceptable.\nTenemos que erradicar la desnutricion cronica en nuestros ninos. Para esto, proponemos otorgar mayores\nrecursos y mejor gerencia, a los programas Juntos y Qali Warma, y dotar a las postas medicas de recursos\npara que suministren paquetes de alimentos a los ninos que se atiendan en dichos establecimientos. Promover una vida activa y saludable basada en una adecuada seguridad alimentaria cubriendo\nrequerimientos nutricionales y esenciales, aprovechando nuestra amplia diversidad regional.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_046",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "17. TENEMOS QUE REDUCIR LOS ALTISIMOS NIVELES DE ANEMIA EN LOS NINOS MENORES DE 36 MESES\nEl nivel de anemia infantil en menores de 36 meses esta en alrededor de 40%. Es una cifra muy\npreocupante que es indispensable reducir en el corto plazo.\nAP reducira la anemia infantil en cinco anos a niveles de un solo digito, si es posible a cero, mediante un\nprograma especial con equipos multidisciplinarios itinerantes que visiten casa por casa los sectores\nvulnerables y suministren los medicamentos, nutrientes, y controles de salud de modo permanente.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_047",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "18. DESARROLLAREMOS LA AGRICULTURA PARA LA SEGURIDAD ALIMENTARIA Y LA EXPORTACION. APOYO ESPECIALMENTE A LA AGRICULTURA FAMILIAR. El Peru es un pais con tradicion agricola milenaria. Nuestra propuesta es reestructurar Agrobanco, que esta\npracticamente en quiebra por la falta de gerencia y gestion, para que otorgue credito a los pequenos\nagricultores, a fin de que sea posible que se tecnifiquen mas y logren mayores niveles de productividad. Se\nles dara apoyo tambien para que incrementen sus cultivos de productos nativos, y los puedan ofrecen al\nmundo.\nEl Peru debe lograr su soberania alimentaria, con reservas de alimentos para epocas de desastres naturales\no cualquier contingencia. Para estos efectos debe apoyarse esencialmente la agricultura familiar que abarca\na mas de 2 millones de personas.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_048",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. Los sistemas de pensiones en el Peru han colapsado. El Sistema Nacional de Pensiones (SNP) solo otorga\npensiones al 25% de afiliados. El 75% restante de afiliados, nunca va a recibir una pension, y termina\nsubsidiando al otro 25%. Los montos que se otorgan son infimos y oscilan entre los S/ 500 y los S/893.\nPor su lado, el Sistema Privado de Pensiones, creado el ano 1993, y que fue objeto de una reforma el ano\n2012 con la Ley 29903, tiene una cobertura minima, comisiones onerosas, y otorga pensiones igualmente\ninfimas. Oficialmente, de acuerdo a las estadisticas de la SBS, el promedio de sus pensiones es de alrededor de S/\n1,000; pero en realidad, da pensiones, muchas veces del orden de S/50 al mes. En ambos casos, como un\nefecto de la elevada informalidad del pais, la densidad de cotizacion es muy baja, esta por debajo del 40%;\nla tasa de reemplazo es del orden de 38%.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_049",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \nAhora bien, el SNP ha fracasado por el absurdo requisito de la exigencia de 20 anos de aportaciones para\notorgar una pension. De acuerdo al FMI, al ano 2020, las pensiones que paga el SNP representan el 2% del\nPBI; pero este costo subira al 3%, el ano 2043, y al 6% en el ano 2075, si las cosas siguen igual. El\nfinanciamiento de la ONP tiene tres fuentes principales: Los aportes de los trabajadores activos, las\ntransferencias del Tesoro, y los recursos del Fondo Consolidado de Reservas Previsionales (FCRP). En el ano\n2019: Los aportes de los trabajadores activos representaron el 77% de la planilla del SNP; las transferencias\ndel Tesoro, el 16%; y los recursos del FCRP, el 7%.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_050",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \n\nDesde el ano 2007, los aportes de los trabajadores activos han experimentado un consistente crecimiento,\ndesde 16% hasta el 84% en el ano 2017. En el mismo periodo, la contribucion del Tesoro ha seguido la ruta\ninversa: De representar el 71% de la planilla el 2007; bajo al 9% el ano 2017. Con los recursos del FCRP, ha\nhabido una evolucion deficiente. En el mismo periodo citado, su contribucion se ha reducido a la mitad,\npasando de 13% a 7% de la planilla. Esto quiere decir que el FCRP esta mal gestionado. Es claro, que el subsidio del Estado se ha reducido dramaticamente, y que el SNP, podria llegar a ser un\nsistema auto sostenible. Sin embargo, el incremento de la esperanza de vida de los peruanos, con lo cual\ncada vez hay mas adultos mayores; el bajo nivel de suspensiones, la baja densidad de cotizacion, la\nreducida tasa de reemplazo, y la baja cobertura lo hacen inviable, igual que el SPP.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_051",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \nLos sistemas de pensiones en el Peru han colapsado. El Sistema Nacional de Pensiones (SNP) solo otorga\npensiones al 25% de afiliados. El 75% restante de afiliados, nunca va a recibir una pension, y termina\nsubsidiando al otro 25%. Los montos que se otorgan son infimos y oscilan entre los S/ 500 y los S/893.\nPor su lado, el Sistema Privado de Pensiones, creado el ano 1993, y que fue objeto de una reforma el ano\n2012 con la Ley 29903, tiene una cobertura minima, comisiones onerosas, y otorga pensiones igualmente\ninfimas. Oficialmente, de acuerdo a las estadisticas de la SBS, el promedio de sus pensiones es de alrededor de S/\n1,000; pero en realidad, da pensiones, muchas veces del orden de S/50 al mes. En ambos casos, como un\nefecto de la elevada informalidad del pais, la densidad de cotizacion es muy baja, esta por debajo del 40%;\nla tasa de reemplazo es del orden de 38%.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_052",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \n\nLa ONP tiene 4.7 millones de afiliados, pero solo 1.7 millones son aportantes regulares; mientras que en el\nSPP hay 7.4 millones de afiliados y solo 3.3 millones de aportantes. Esto ocurre por la alta precariedad del\ntrabajo en el Peru. Esto es, un trabajador promedio, a lo largo de 40 anos de vida laboral, mas de la mitad,\nla pasa en el sector informal sin ningun derecho laboral; o en el sector formal, bajo contratos con derechos\nrecortados. Hay que decir, que tambien hay informalidad laboral, en el sector formal. La carga de pensionistas, proporcionalmente, es mayor para el SNP, pues tiene 576,000 pensionistas;\nmientras que el SPP tiene solo 178,000 pensionistas. Es decir, estan en una proporcion de 3.2 a 1, en cuanto\na carga de pensionistas.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_053",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \n\nMientras que las pensiones del SNP son vitalicias; en cambio, las pensiones del SPP solo duran lo que duren\nlos fondos de la CIC de cada afiliado, a menos que se pacte una pension vitalicia, lo que las AFP solo\naceptaran si es que hay fondos suficientes que cubran la esperanza de vida de los afiliados, que es del\norden de mas o menos 15 anos, a partir de los 65 anos. Si la persona fallece antes, todo el fondo se lo\napropia la AFP. Las propias rentas vitalicias solo garantizan el pago de los primeros 15 anos. Un aspecto que ha caracterizado al funcionamiento de las AFP, todos estos anos, y que ha contribuido a su\nimpopularidad, es que es un sistema absolutamente egoista, carece de todo atisbo de solidaridad, rasgo\nque lo diferencia de su sistema gemelo, el chileno, donde a lo largo de tres reformas, se han ido\nintroduciendo pilares de solidaridad. Por el contrario, el SNP, con todas sus limitaciones, entrega dos\ngratificaciones al ano, con el mismo monto de la pension; y a partir de los 80 anos, por mandato de la Ley\n26769, entrega una bonificacion del 25% de la pension, a todos los pensionistas que tengan mas de 80 anos\nde edad.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_054",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \n\nInclusive el SPP llegaba al extremo abusivo de retener aportes del 10% y las comisiones de 3% por riesgos\nde invalidez y sobrevivencia, no solo en las remuneraciones de julio y diciembre, sino tambien en las\ncorrespondientes gratificaciones de estos meses. Es decir, se hacia un doble descuento en estos meses. Esta regla abiertamente abusiva fue eliminada mediante la Ley 30334, que prohibe estos recortes en las\ngratificaciones de julio y diciembre. De otro lado, la prueba de la desaprobacion que tienen las AFP\nrespecto de la propia gente que ahorra en ellas, es que cuando el Congreso aprobo las Leyes 30425 y 30428\n-por cierto de autoria de Accion Popular- en el ano 2016, que permiten voluntariamente el retiro del 95.5%\nde la CIC, desde junio del indicado ano hasta el ano 2019, se han acogido a estas leyes -segun el MEF un\ntotal de 252,000 afiliados que han retirado un total de S/ 22,000 millones.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_055",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \n\nLos actuales sistemas de pensiones, ni siquiera pueden satisfacer la demanda de un pais como el Peru, que\nal 2020 todavia es fundamentalmente joven, y disfruta de su bono demografico aun, pues solo el 7% de su\npoblacion esta entre 65 y los 79 anos de edad. Los dos sistemas de pensiones no pueden atender con un\nminimo de eficiencia a este segmento todavia minoritario. Sin embargo, el ano 2050, la poblacion de\nadultos mayores pensionables se duplicara, elevandose al 13.2%, con lo cual si las cosas siguen como estan,\nes incierto que se puedan pagar pensiones a una poblacion adulta mayor que sera el doble de la que\ntenemos hoy.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_056",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \n\nCon los actuales sistemas de pensiones, publico y privado, en realidad lo que ocurre, es que inclusive los\nque reciben una pension caen en una situacion de pobreza, porque los que llegan a la edad de jubilacion\ncon los sueldos mas bajos, digamos S/ 1,500, solo recibiran maximo el 40% de este sueldo, es decir, S/ 600,\nteniendo un horizonte en promedio de 15 anos mas de vida, a partir de los 65 anos, pero sin generar\nnuevos ingresos, y teniendo que vivir con esos S/ 600, que obviamente no cubriran sus mas elementales\nnecesidades esenciales. Por consiguiente, es necesario que las pensiones tengan un monto mayor.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_057",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \n\nLos esfuerzos de reforma en el SPP, no han conseguido ni aumentar la cobertura, ni mejorar las pensiones,\nni reducir las comisiones, ni romper el oligopolio de las cuatro AFPs. Por ejemplo, la comision por saldo esta\nentre las mas altas de la region, segun el BCR. Asi, mientras que en el Peru, la comision por saldo esta en\npromedio en 1.13%, en Costa Rica esta en 0.5%. Un dato muy importante es el senalado por Javier Olivera, quien dice que el 5% mas rico posee el 49% de\nlos fondos. Quiere decir, que el 95% de los afiliados tienen apenas -en conjunto- el 51% de los fondos. Esto\nexplica por que, en promedio la Cuenta Individual de Capitalizacion (CIC) para los afiliados de las AFP que\nllegan a los 65 anos, estan en S/ 80,000, lo que no alcanza para una pension digna para el resto de sus\nvidas, y los condena mas bien a la pobreza. Una simple operacion aritmetica, arroja que un afiliado\npromedio, en estas condiciones recibiria por los siguientes 15 anos, a partir de los 65 anos, una pension de\nS/ 444.44, y no los S/ 1,000 que calcula como promedio la SBS.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_058",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \n\nEsto contrasta notablemente con la riqueza de las AFP, las que reciben solo por concepto de comisiones un\npromedio de mas de S/ 1,400 Millones al ano; no asumen ningun porcentaje de las perdidas del Fondo (los\nafiliados asumen el 100% de estas); ni siquiera asumen las consecuencias de las perdidas que generan sus\ndecisiones equivocas de inversion; y perciben comisiones inclusive cuando los cuatro fondos tienen\nrentabilidad negativa. Este estado de cosas, profundamente inequitativo tiene que cambiar, porque los\nverdaderos beneficiarios del sistema tienen que ser los duenos del Fondo, y no los simples administradores. Esta situacion se pretende cambiar mediante diversas propuestas de varios especialistas o instituciones,\nalgunas de las cuales se han expuesto ante la Comision Especial del Congreso sobre la reforma previsional.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_059",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \n\nUna de ellas senala que se deben integrar los dos sistemas y absorber a Pension 65. Tambien se propone\nuna Pension Universal de S/ 150 mensuales, inclusive subir la tasa de aporte de 10% a 12%, para pagar\npensiones de entre S/ 750 A S/ 1,500, bajo un modelo de reparto, que seria el pilar solidario obligatorio;\npero tambien habrian CIC. Inclusive se sugiere crear un impuesto a la riqueza, que nos parece pertinente,\nporque en el Peru hay mucha desigualdad, y niveles muy altos de evasion y elusion tributarias. Un punto central, en el cambio de los sistemas de pensiones tiene que atender a que no debe ser el hecho\nde que el trabajador sea formal o informal, como bien apunta David Tuesta, porque los trabajadores\ninformales son el 75%de toda la PEA. Es decir se tiene que hacer un nuevo sistema que atienda a este 75%,\ny no lo ignore como ha sucedido hasta hoy.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_060",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \n\nLos sistemas meramente contributivos que se financian con un \"impuesto a la planilla\", lo que han hecho\nes incentivar y aumentar la informalidad. Asi han funcionado tanto el SNP como el SPP. Esto tiene que\ncambiar, para ir hacia un nuevo sistema de pensiones cuya columna vertebral sea el financiamiento por\nmedio de impuestos, y complementariamente, con los ahorros individuales. Lo que sugiere David Tuesta es que haya una pension basica para todo peruano, de S/ 200 financiado con el\nPresupuesto o por 1% del IGV (S/ 8,000 Millones) y complementariamente el ahorro individual, que podria\ntener un subsidio. Otra posibilidad son las denominadas cuentas nocionales, que son esquemas de reparto\nconvertidos en cuasi esquemas de cuentas individuales. Como una cifra totalizadora que da una idea de\ncomo han estado funcionando el SNP, el SPP y el programa Pension 65, resulta -en el mejor escenario- que\nsolo el 58% de la poblacion mayor a 65 anos recibe una pension (incluyendo Pension 65). En realidad,\ncreemos que esta cifra es optimista, pues la cifra real debe ser bastante menor. Y, quizas, la pregunta\nrelevante seria: ?que porcentaje de los que reciben pension, reciben una pension que alcanza para cubrir\ntodas sus necesidades?\nPor lo antes expuesto, queda claro que es necesario realizar una profunda reforma de los sistemas de\npensiones, y no simples modificaciones legislativas. Es necesario, crear un nuevo sistema de pensiones.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_061",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "19. PENSION BASICA UNIVERSAL PARA TODOS LOS PERUANOS, SIN EXCEPCION. \n\nEn este contexto Accion Popular propone reformar los sistemas de pensiones, y precisamente crear un\nnuevo Sistema de Pensiones que otorgue una Pension Basica Universal (PBU) a todos los ciudadanos\nperuanos que se financie con impuestos, sin perjuicio del ahorro individual, para mejorar la pension.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_062",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "20. LA REVOLUCION DE LA EDUCACION\nCada gobierno que ha entrado ha ofrecido, en los ultimos 30 anos, una educacion publica de calidad. Sin\nembargo, este vital servicio no ha hecho otra cosa que deteriorarse tanto en infraestructura, como en\ncontenidos, logros, capacitacion y remuneraciones dignas para los maestros. Proponemos adoptar los estandares de calidad de los paises de la OECD, que tienen los mejores sistemas\neducativos del mundo. Paises como Corea del Sur lograron el milagro de su desarrollo en el curso de tres\ndecadas porque hicieron una fuerte inversion sostenida en educacion a todo nivel. Proponemos invertir el\n10% del PBI en educacion.\nContinuaremos fortaleciendo a los Colegios de Alto Rendimiento, y desarrollaremos las Universidades\nPublicas de Alto Rendimiento a traves de las actuales universidades que se esfuercen para alcanzar niveles\nde educacion de calidad. Se implantara la meritocracia, para que los mejores alumnos tengan becas completas, en todos los niveles,\ninclusive si son adultos mayores de 40 anos, siempre que en este ultimo caso, sea para terminar una\ncarrera inconclusa, y se este en condicion de pobreza o desempleo temporal. Igualmente se implantara\nbecas de estudios en las mejores universidades del extranjero para los mejores estudiantes de las\nuniversidades a fin de que se especialicen y regresen a mejorar las actividades productivas en nuestro pais.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 1,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_063",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "21. LA URGENTE REFORMA DEL ESTADO\nEste desafio que ha sido eludido por los sucesivos gobiernos en los ultimos 30 anos, y que se ha\nemprendido con timidas medidas inconclusas, o con cambios que han favorecido solo a los grandes grupos\neconomicos, lo toma Accion Popular, que desarrollara una reforma institucional sin precedentes en la\nhistoria nacional. El Estado actual no cumple ninguna de sus tareas esenciales porque es lento, burocratico, ineficiente,\nobsoleto, indolente, pasivo, asolado por redes encubiertas de corrupcion, derrochador, sin iniciativa y\natrapado por la rutina. El Estado tiene en total 2,503 entidades, que gasto solo en el ano 2019 mas de S/ 236,000 millones, pero\nque no se ve el beneficio de este gigantesco gasto para la sociedad, ano tras ano, decada tras decada.\nProponemos una reforma para mejorar los servicios que presta el Estado con todas estas instituciones, y\nuna reduccion de costos ineficientes, sin afectar a los trabajadores ni sus derechos laborales, que se\ntrasladaran a las inversiones de capital estrategicas, con rentabilidad social para todos los peruanos.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_064",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "22. INSTAURACION DEL GOBIERNO ABIERTO\nUno de los aspectos centrales de la modernizacion del Estado, que emprenderemos, sera la instauracion\ndel Gobierno Abierto, que hara de conocimiento publico, en tiempo real, todos los actos de administracion\npublica, las sesiones de las autoridades, las contrataciones publicas, los gastos corrientes, los sueldos y\nbeneficios, y en general toda la informacion de interes publico para fiscalizar de modo real, a todas las\nautoridades.\nLas unicas excepciones seran las vinculadas a la seguridad nacional; pero aun estas, seran debidamente\nescrutadas por las instituciones competentes, en tiempo real. Se pondra punto final al secretismo, que es\naliado de la corrupcion.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_065",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "23. CONTRATACION PUBLICA\nPropondremos una reforma institucional de todas las entidades que tienen que ver con las compras\npublicas, y una nueva Ley de Contrataciones Publicas, donde se plasme un nuevo modelo de licitaciones y\notras modalidades de adjudicacion de recursos publicos para obras y servicios. El modelo actual ha sido completamente inutil para detectar e impedir la corrupcion, tanto de los postores\ncomo de los adjudicatarios. No ha servido tampoco para detectar ni impedir los carteles, las colusiones, las\nsobrevaloraciones, ni el fraude al Estado.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_066",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "24. LOS SERVICIOS PUBLICOS ESENCIALES Y LOS SERVICIOS MASIVOS TIENEN QUE ESTAR AL ALCANCE DE\nTODOS LOS PERUANOS. En todas las regiones del pais existe una carencia clamorosa del servicio de agua y desague que nadie ha\npodido atender hasta la fecha, razon por la cual sera prioritaria la instalacion de dichos servicios para que la\npoblacion del Peru pueda vivir con dignidad. Por otro lado, los servicios de suministro de agua potable, electricidad, telecomunicaciones, gas domestico\ny transportes deben eficientes y contar con tarifas competitivas, al alcance de todos los peruanos. Ningun\npais que ha logrado el desarrollo tiene servicios publicos onerosos. Evaluaremos las condiciones bajo las\ncuales se presta los referidos servicios.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_067",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "25. PARTICIPACION DE LA JUVENTUD CON LA MINKA Y EL AYNI (COOPERACION POPULAR)\nAprovechando que los jovenes cuentan con una gran capacidad de organizacion, dinamismo y trabajo\nconjunto, Accion Popular promovera la participacion de la juventud, en programas de voluntariado a nivel\nnacional, dentro del programa de Cooperacion Popular que reinstaurara, para ejecutar pequenos proyectos\nde inversion de alto impacto social en las zonas vulnerables, rurales y de frontera, en articulacion con las\npoblaciones. El programa de voluntariado tambien otorgara incentivos a los jovenes que cumplan metas a\nfavor de las poblaciones vulnerables, financiando proyectos y emprendimientos viables que tengan\nrentabilidad social y generen empleo.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 1,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_068",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "26. EL MANEJO SOSTENIBLE DEL AGUA\nEl acceso al agua potable, y su uso prioritario para consumo humano, es ahora un derecho constitucional\nconforme a la Ley 30588 que incorporo el articulo 7-A en la Constitucion, ley que nacio de una iniciativa\nlegislativa presentada por Accion Popular durante 15 anos, y que recien fue aprobada en el Congreso\nanterior. El agua le pertenece a todos los peruanos. Nosotros no permitiremos que se privatice directa o\nencubiertamente. Propondremos que las grandes empresas que hacen consumo intensivo del agua\n(mineras, cerveceras, cementeras, de aguas gaseosas, etc) paguen una tarifa de consumo tecnicamente\ncalculada.\nRegularemos el uso de las aguas subterraneas, que tambien deben tener una tarifa especial, y cuidaremos\nsu uso sostenible. Se debera llevarse a cabo la construccion de represas en las partes altas del Peru porque\nactualmente el agua se pierde en rios danados por la contaminacion o llega al mar irremediablemente sin\nser utilizada sea para consumo humano o para el uso en la actividad agropecuaria.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_069",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "27. FORTALECEREMOS LA DEFENSA DEL CONSUMIDOR\nEl articulo 65 de la Constitucion obliga al Estado a defender a los consumidores y usuarios, tarea que\npretende cumplir a traves de INDECOPI y de los organismos reguladores. Sin embargo, estas entidades\ndistan mucho de cumplir esta mision.\nNuestra propuesta es fortalecer los organismos reguladores y el INDECOPI, otorgandole nuevas funciones,\ncomo por ejemplo, se disponga de las multas impuestas a empresas infractoras, una parte para pre\nindemnizar a la victima o ciudadano afectado por la infraccion cometida o por la practica abusiva. Hacer\nmas agil el procedimiento para resolver las quejas que formulan los peruanos en el libro de reclamaciones\nporque actualmente se debe formular practicamente dos denuncias para conseguir proteccion del\nIndecopi, vale decir aparte de consignar la denuncia en el libro de reclamaciones, se debe ratificar dicha\ndenuncia ante la referida entidad de defensa del consumidor, lo cual es un mecanismo contra producente\nque va en contra de los derechos del consumidor.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_070",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "27. FORTALECEREMOS LA DEFENSA DEL CONSUMIDOR\n\nAdemas se debe crear oficinas de Defensa del\nConsumidor en los Municipios provinciales y distritales, no solo para que informen de sus derechos a los\nciudadanos sino para que resuelvan que quejas de los consumidores, en vista que las oficinas del Indecopi\nsolo funcionan en las capitales departamentales, con lo cual se fortalece el servicio del Estado en esta\nmateria importante que tiene que ver con la proteccion de la economia familiar.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Accion_Popular_071",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "28. LA CIUDADANIA EXIGE LA DRASTICA REDUCCION DE LA DELINCUENCIA COMUN QUE TIENE TOMADA\nLAS CIUDADES\nActualmente las principales ciudades del pais estan tomadas y acosadas por la delincuencia comun, que\nesta cada vez mas violenta. La Policia Nacional se encuentra impotente ante el avance permanente de los delincuentes, porque no se\nles da los medios ni las herramientas suficientes que necesitan. Esta situacion de inseguridad y zozobra, que inclusive ha llegado a los distritos que se supone eran seguros,\nconstituye una autentica situacion de emergencia nacional, porque tenemos a un enemigo que esta dentro\nde nuestras ciudades, de nuestros barrios, de nuestras calles, en acecho permanente, y tiene desprecio por\nla vida y la ley.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Accion_Popular_072",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "28. LA CIUDADANIA EXIGE LA DRASTICA REDUCCION DE LA DELINCUENCIA COMUN QUE TIENE TOMADA\nLAS CIUDADES\nEncararemos el problema de la delincuencia comun en los seis primeros meses, implementando medidas\ndiferentes a las que se han venido aplicando donde la Policia Nacional, los servicios de inteligencia, las\nFuerzas Armadas, los gobiernos regionales, los alcaldes, las rondas campesinas, los agentes privados de\nseguridad y los Vecinos, organizados en juntas vecinales enfrenten la delincuencia de manera coordinada,\npara capturar a los delincuentes y mandarlos a prisiones seguras, y realicen actividades productivas\nmientras cumplen sus sanciones o condenas. Siendo la violacion de ninos y mujeres delitos graves se\nimplementara como pena accesoria a la carcel la castracion quimica, la misma que en otros paises ha\nconseguido reducir el numero de violaciones.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Accion_Popular_073",
+    "partido": "Accion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "29. EMPRENDER UNA VERDADERA REFORMA DE LA ADMINISTRACION DE JUSTICIA, QUE SEA\nSOSTENIBLE E IRREVERSIBLE\nTodos los esfuerzos que se han hecho por tratar de reformar la administracion de justicia han fracasado\nhasta el momento, en gran parte, porque no han sido reformas estructurales, sino meros parches, o las que\ntuvieron algun nivel de profundidad nunca se implementaron. No puede haber seguridad juridica si es que\nla administracion de justicia es deficiente. Las administraciones de justicia de los paises de la OECD son\nrespetables, tienen la confianza de la sociedad, y gozan de credibilidad. Esto no sucede en el Peru, donde\nmas bien la justicia muchas veces se subasta al mejor postor. Proponemos una reforma estructural para\ntener una institucion moderna, seria, honesta y confiable, que contribuya al orden y a la paz social.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  }
+]

@@ -1,0 +1,11 @@
+b. Contar con una administracion adecuada y paulatina de vacunas cuya eficacia
+sea como minimo el 70%. Las vacunas que han demostrado una eficacia
+preliminar de mas de 90% son de Moderna y Pfizer, pero dichas vacunas
+tendran un problema logistico en Peru para su distribucion. Debido a que
+requieren una cadena de frio de -70o C, la temperatura del hielo seco debe ser
+tambien - 70o C. Por lo tanto, el costo de mantener dicha temperatura es muy
+elevado, se necesitaria camiones congeladores que sean capaces de llegar a los
+pueblos mas reconditos, manteniendo la temperatura a -70o C porque no es
+posible llevar las vacunas en coolers. Por ello, implementar la logistica de ese
+tipo de vacunacion sera muy dificil en el Peru; los paises desarrollados son los
+que mas aprovecharan esas vacunas.

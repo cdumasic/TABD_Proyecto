@@ -1,0 +1,10 @@
+Claramente, necesitamos volcarnos al uso masivo de pruebas moleculares para la deteccion
+temprana. En el caso del rastreo de contactos de los infectados detectados no vamos a poder disminuir
+el umbral que tenemos; de acuerdo con cifras oficiales tenemos 3 mil detectados nuevos por
+dia. Por ejemplo, en Ontario (Canada) estaban consternados con sus cifras de nuevos
+contagios porque tenian 4 mil pruebas positivas en la provincia y tienen unos 7 millones de
+habitantes. Nosotros detectamos 3 mil positivos diarios que incluso representan una
+subestimacion, ya que el numero real seria mucho mayor si realizaramos mas pruebas. Como
+estamos haciendo tan solo 15 mil o 20 mil pruebas por dia --rapidas y moleculares-- cuya
+positividad es de 15%, detectando 3 mil casos por dia, si hiciesemos 80 mil podriamos detectar
+12 mil casos positivos.

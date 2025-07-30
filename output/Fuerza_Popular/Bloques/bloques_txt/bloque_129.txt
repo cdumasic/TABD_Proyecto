@@ -1,0 +1,14 @@
+* El Sistema de Procesamineto y Generacion de Informacion de Universidades
+para el Informe Bienal de Universidades (SIBE), es el principal sistema de
+informacion de la educacion superior universitaria, abarcando diversos aspectos
+como docentes, infraestructura, estados financieros, estudiantes, programas
+formativos entre otros. No obstante, su acceso se encuentra restringido a los
+miembros de la SUNEDU unicamente. Por otro lado, desde el punto de vista administrativo estatal, existen dos
+sistemas clave: el Sistema Integrado de Informacion de Apoyo a la Gestion de
+la Institucion Educativa (SIAGIE), que permite gestionar la informacion
+academico-administrativa de las instituciones educativas de educacion basica. Tambien, se cuenta con el Sistema Integardo de Administracion Financiera
+(SIAF) que facilita la gestion de la informacion administrativa-presupuestal del
+sistema educativo en general. Por otro lado, a nivel centralizado y de acceso
+publico no se ha identificado un sistema de informacion sobre los estudiantes
+que atienden a otras modalidades del servicio de educacion superior como son
+Institutos Superiores Tecnologicos o CETPRO.

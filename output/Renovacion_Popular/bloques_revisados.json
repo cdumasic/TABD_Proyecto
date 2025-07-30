@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "Renovacion_Popular_001",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "PLAN DE GOBIERNO 2021-2026\nIII. RESUMEN DEL PLAN DE GOBIERNO\n\nDIMENSIÓN SOCIAL\n\nProblema: Corrupcion endemica en todos los niveles del aparato publico. Objetivo:\n- Crearemos una Central de lucha Contra la Corrupcion (CCC), la cual dotaremos de plenos poderes para detectar, infiltrar y capturar el delito cometido \"in fraganti\", asi como las irregularidades funcionales en todas sus modalidades y niveles de gobierno. Recuperaremos el principio de autoridad y la confianza en nuestras instituciones. Esta Central se encargara de la verificacion de la informacion patrimonial declarada por los funcionarios publicos.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_002",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Perdida de confianza de los ciudadanos a los gobernantes. - Falta de transparencia en los contratos estatales. Meta:\n- Reduciremos de forma sustancial los niveles de corrupcion y recuperaremos la confianza del pueblo. Problema: Altos niveles de delincuencia y proliferacion del pandillaje con alta proliferacion de micro comercializacion de drogas. Objetivo:\n- Derrotaremos la delincuencia comun, el pandillaje y la micro comercializacion de drogas, por medio de las Unidades Itinerantes de Pacificacion Ciudadana, inteligencia y agentes encubiertos, integradas por todas las instituciones del Sistema de Seguridad Ciudadana (Policia, serenazgo municipalidad, Poder Judicial, Fiscalia, organizaciones sociales, etc.). Indicador:\n- Altos indices de inseguridad ciudadana.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_003",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "- Falta de videovigilancias. Meta:\n- Nos proponemos a reducir significativamente los indices de violencia, delincuencia comun, pandillaje y la micro comercializacion de drogas. - Implementaremos videovigilancias que monitoreen a las ciudades, en trabajo conjunto con gobiernos regionales y municipales. Problema: Pobreza extrema como lastre para el desarrollo. Objetivo:\n- Reforzaremos las organizaciones populares, para distribuir la ayuda alimentaria a grupos de extrema pobreza; la meta es convertirlos en una pujante clase de emprendedores. Lucharemos para erradicar la pobreza extrema, fortaleciendo -sin caer en la politizacion- los programas sociales de subsidio y de inversion social. Garantizaremos la eliminacion de duplicidades y filtraciones, reduciendo los costos administrativos y fijando politicas de compras mas convenientes. Los programas alimentarios se basaran en productos nacionales.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_004",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Incremento de desnutricion en los hogares de familias que menos tienen. - Incremento de desempleo provocado por la pandemia COVID-19, mas peruanos con deficit monetario. Meta:\n- Disminuiremos de manera significativa los indices de pobreza extrema y desnutricion, por medio de canastas basicas que seran adquiridas de los productores agricolas, mientras se reactiva la economia. Problema: Escasez de areas de esparcimiento familiar. Objetivo:\n- Extenderemos a todo el pais la experiencia de los Clubes Zonales para fortalecer los lazos y, por consiguiente, los valores familiares, reconociendo el esfuerzo desplegado dia a dia por la poblacion mas vulnerable, otorgandoles lugares de esparcimiento y encuentro familiar de calidad.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_005",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Falta de lugares de esparcimiento para las familias. Meta:\n- Aumentaremos los lugares de esparcimiento familiar en todo el Peru. Problema: Desnutricion cronica infantil. Objetivo:\n- Nos preocuparemos de la alimentacion desde el vientre de la madre, se continuara en las guarderias y colegios con un programa alimenticio basado en proteinas, a fin de asegurar las condiciones fisicas y mentales de nuestros estudiantes. Indicador:\n- Incumplimiento de los estandares de calidad en los programas sociales. Meta:\n- Erradicaremos la anemia y la desnutricion infantil, por medio de adquisicion de productos de calidad a los proveedores nacionales. Problema: Deficit de viviendas populares.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_006",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Objetivo:\n- Habilitaremos terrenos de propiedad del Estado con acceso a redes de electrificacion, agua y desague, rutas de transporte, para que los mas pobres tengan acceso a viviendas sismo resistentes, al alcance de sus ingresos. Indicador:\n- Falta de accesibilidad a proyectos de financiacion con facilidades para vivienda. - Falta de servicios basicos en zonas de extrema pobreza. Meta:\n- Mejoraremos viviendas populares, de manera sostenida durante los 5 anos de gestion. - Implementaremos el servicio de tanques de agua para facilitar a la ciudadania de este servicio basico y primordial para aquellas familias que viven en zonas de extrema pobreza.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_007",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Problema: Deficit de salud, educacion y vivienda en comunidades campesinas y nativas. Objetivo:\n- Descentralizaremos los programas de apoyo social, incorporando en los directorios a los representantes de la poblacion organizada. Formaremos Agentes de Desarrollo seleccionados de las propias comunidades, para ser capacitados en atenciones basicas de salud, alfabetizacion de adultos y saneamiento rural, usando tecnicas e insumos nativos. Indicador:\n- Falta en la participacion de los directorios del gobierno y de consideracion a los dirigentes agropecuarios en el abastecimiento de productos de primera necesidad. Meta:\n- Propiciaremos el desarrollo de las comunidades campesinas y nativas. Problema: Poca atencion ante el friaje en zonas altoandinas.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 1,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_008",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Objetivo:\n- Crearemos el Sistema de Tambos para tener abastecimiento preventivo y medicinas. Implementaremos casas termicas y cobertores que protejan de las bajas temperaturas y se cuide a los animales que son principal fuente de ingresos de los mas pobres. Indicador:\n- Ausencia de orientacion y capacitacion por parte de las autoridades a los habitantes que viven en zonas altoandinas. Meta:\n- Reduciremos los impactos negativos para la poblacion, del friaje en zonas altoandinas por medio de convenios que capaciten la forma resguardar y mejorar las condiciones de vida de las personas y animales. Problema: Deficit de pescado para la mesa popular.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_009",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Objetivo:\n- Alentaremos la creacion de cadenas de frio que pongan al alcance de la mesa popular las proteinas del pescado como forma de mejorar la dieta alimentaria, generando un impacto positivo en la lucha por reducir la anemia y desnutricion. Indicador:\n- Costos elevados de consumo alimento marino. Meta:\n- Incrementaremos el consumo de pescado, fomentando el proyecto para dar facilidades a los pescadores para que llegue a las mesas populares, tipo del mar a la olla. Problema: Deficit en el acceso garantizado de la poblacion con escasos recursos a servicios de salud y medicamentos de calidad. Objetivo:\n- Primero los que menos tienen. Emplearemos el presupuesto de salud prioritariamente hacia la poblacion mas pobre. Acabaremos con la cadena de cobros excesivos por medicamentos. Sera obligatorio que las farmacias tengan medicamentos basicos que cubran el petitorio de Minsa, Essalud y FFAA y PNP.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_010",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Falta de proyeccion en la adquisicion de productos para el Sector Salud e incremento en los costos de los medicamentos. Meta:\n- Proveeremos mas y mejores medicamentos a la poblacion de escasos recursos. - Garantizaremos que no falte los medicamentos basicos en todas las farmacias. Problema: Postas Medicas deficientes. Objetivo:\n- Dotaremos y fortaleceremos las Postas Medicas con infraestructura, materiales y profesionales de salud. Indicador:\n- Falta de infraestructura, equipamiento y calidad profesional en la Postas Medicas. Meta:\n- Impulsaremos y dotaremos con equipamiento adecuado y personal capacitado en las Postas Medicas. Problema: Deficit de deporte como prioridad en el desarrollo de la persona.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_011",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Objetivo:\n- El deporte sera una politica de Estado para mejorar el bienestar general de la persona, con prioridad en los colegios. Crearemos a nivel nacional los Centros de Alto Rendimiento Deportivo (CAR) para la formacion de deportistas de alta competicion. Indicador:\n- Altos indices de obesidad y poca actividad fisica en la poblacion. Meta:\n- Mejoraremos y fortaleceremos los Centros de Alto Rendimiento Deportivo (CAR) e impulsaremos la actividad deportiva en los colegios. Problema: Reduccion de la participacion de los padres de familia en la gestion educativa. Objetivo:\n- Aseguraremos la participacion efectiva de los padres de familia en la evaluacion y fiscalizacion de la calidad educativa y el desempeno de los profesores. El Director sera responsable de la gestion educativa para todo fin.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_012",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Ausencia de los Padres de Familia en la supervision de la calidad educativa escolar impartida en las instituciones y centros de Educativos. Meta:\n- Mejoraremos de manera progresiva la calidad de la educacion escolar y superior con la ayuda y supervision de los padres de familia. Problema: Oportunidades con igualdad de mujeres y hombres. Objetivo:\n- Generaremos oportunidades para todos los peruanos, sin distincion de sexo. Impulsaremos leyes en dicho sentido y mejoraremos las existentes. Indicador:\n- Mayores facilidades para profesional de genero masculino, ausencia del genero femenino en los directorios. Meta:\n- Trabajaremos para que haya oportunidades sin distincion alguna entre hombres y mujeres en base a la meritocracia y sin ninguna clase de discriminacion y eliminar los obstaculos en ambos casos.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 1,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_013",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Problema: Falta de capacitacion y adecuados creditos para la mujer emprendedora. Objetivo:\n- La mujer es un agente de impulso economico, es el motor de la economia familiar, por lo que trabajaremos de la mano con cada una de ellas. Organizaremos programas de capacitacion y asistencia tecnica, principalmente en zonas de extrema pobreza, para dotar de habilidades tecnicas a las mujeres para la generacion de ingresos en sus propias comunidades. Indicador:\n- Carencia de formacion y capacitacion orientadas a las mujeres emprendedoras. Meta:\n- Generaremos la creacion del sistema de credito, orientados para las mujeres emprendedoras brindando las herramientas adecuadas para su desarrollo y desenvolvimiento.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_014",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Problema: Precariedad en la atencion primaria en el Sistema de Salud por falta de infraestructura, equipamiento y personal de Sector Salud. Objetivo:\n- Elevar la cobertura de atencion en los Centros de Atencion Primaria para reducir la sobredemanda hospitalaria en todos los Centros del Sector Salud. Indicador:\n- Falta de infraestructura, personal medico y equipamiento en los Centros de Atencion Primara del Sector Salud. Meta:\n- Fortaleceremos a los Centros de Atencion Primaria, con equipamientos y profesionales. Problema: Inadecuado manejo publico de la gestion de salud por parte de los gobiernos regionales. Objetivo:\n- Impulsar la educacion sanitaria, los estilos de vida saludables y la implementacion de programas desde el ministerio correspondiente.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 1,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_015",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Ausencia de planes estrategicos en la implementacion de los servicios de salud en los gobiernos regionales. Meta:\n- Innovacion e implementacion cientifica y tecnologica del Ministerio de Salud. Problema: Invisibilidad de la especialidad Salud Familiar, como eje central para la promocion y fomento de la salud. Objetivo:\n- Impulsar la especialidad en Salud Familiar, a nivel nacional,. Indicador:\n- Escasez de profesionales especializados como Medicos de Familia. Meta:\n- Promoveremos el Plan Nacional de Promocion de la Salud, con acento en Salud Familiar. Problema: Maltrato en la atencion por una parte de los profesionales del sector Salud. Objetivo:\n- Crear centros de desarrollo personal y gestion del trato humanizado.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_016",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Falta de profesionalismo en el trato adecuado hacia los pacientes por algunos profesionales del sector Salud. Meta:\n- Impulsaremos el Modulo Nacional de Calificacion Profesional continuo. Problema: Ausencia de protocolos, revisiones, planeacion para seguridad en el trabajo. Objetivo:\n- Favorecer la Salud Ocupacional, como derecho ciudadano. Indicador:\n- Falta de interes por parte de las instituciones en el bienestar del trabajador. Meta:\n- Crearemos la Oficina Nacional de Salud Ocupacional. DIMENSIÓN INSTITUCIONAL \n\nProblema: Deficiente organizacion y funcionamiento de los Ministerios. Objetivo:\n- Eliminaremos las barreras burocraticas por medio de una intensiva simplificacion administrativa, alentando y promoviendo la inversion privada. Promoveremos un Estado al servicio del ciudadano, por lo que implementaremos el \"CODIGO DEL SERVICIO PUBLICO\" con compromisos concretos de mejora y establecimiento de sanciones por un mal servicio.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 1,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_017",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Excesiva burocracia en las entidades publicas y los ministerios. Meta:\n- Seguiremos promoviendo la mejora de la modernizacion en la organizacion y funcionamiento de los Ministerios. Problema: Elevado numero de ministerios. Objetivo:\n- Reduciremos el numero de ministerios existentes, tomando como preceptos para dicha reduccion la ineficiencia, el sobredimensionamient o de la burocracia estatal y los abultados gastos corrientes, principalmente aquellos que se destinan a asesorias sin sustento tecnico, ni beneficio real hacia los ciudadanos. Asimismo, descentralizaremos las sedes ministeriales y el propio Poder Ejecutivo. Indicador:\n- Falta de resultados concretos en los ministerios y duplicidad de funciones.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_018",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "- Concentracion capitalina de facultades politicas. Meta:\n- Inicio de estudios tecnicos a fin de reducir la cantidad de ministerios y redistribuir el personal a las sedes desconcentradas. Problema: Deficiente gestion de los gobiernos regionales y municipales. Objetivo:\n- Estableceremos incentivos economicos en pro de la mejora en la gestion de los Gobiernos Regionales y Locales, los mismos que se distribuiran de acuerdo a los cambios positivos de los indicadores de necesidades basicas insatisfechas. Apoyaremos su gestion administrativa, con equipos gerenciales especializados y con experiencia, mejorando el nivel tecnico de los funcionarios locales, lo que generara un gran impacto en la gestion.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_019",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Desaprovechamiento de las partidas presupuestarias asignadas del gobierno central a los gobiernos regionales y municipales por falta de proyectos de desarrollo. Meta:\n- Capacitaremos y fomentaremos el desarrollo de proyectos de inversion e infraestructura en los gobiernos regionales y municipales. Problema: Servicio civil profesional con baja valoracion en el mercado laboral. Objetivo:\n- Revaloraremos la funcion publica, a la cual se ingresara por meritos y competencias. Incidiremos en la profesionalizacion, acceso, permanencia y progresion de los funcionarios de acuerdo a resultados y evaluaciones permanentes, donde se dara enfasis a las pruebas de conocimientos por encima de las entrevistas personales. Promoveremos una cultura de compromiso de servicio del profesional publico hacia los ciudadanos, los empresarios, proveedores, consumidores y pobladores en general.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_020",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Excesiva contratacion de amistades, generando nepotismo en el aparato estatal y perjudicando el buen desarrollo al Estado peruano con la contratacion de profesionales poco capacitados. Meta:\n- Revaloraremos la funcion publica en base a la capacitacion y meritocracia. - Contrataremos a profesionales capacitados para la funcion publica y reconocer sus competencias en el desempeno laboral, promoviendo el ascenso por meritocracia. Problema: Falta de transparencia en el Estado. Objetivo:\n- Aseguraremos el acceso masivo a la informacion via Internet, no solamente para mejorar la transparencia y el acceso a la informacion del Estado, sino para comunicar, mas rapida y eficazmente, las decisiones de los organismos publicos referentes a tramites realizados por los ciudadanos.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_021",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Manipulacion en la informacion sobre las gestiones en el aparato estatal. Meta:\n- Seguir impulsando y fortaleciendo el Gobierno Digital para integrar de manera eficaz la transparencia del Estado con los ciudadanos. Problema: Falta de incentivos para la carrera judicial. Objetivo:\n- Promoveremos el acceso de jovenes profesionales a la carrera judicial luego de un ano de formacion especializada en la Academia de la Magistratura. Culminada dicha formacion, asumiran el rol de jueces y fiscales por un periodo minimo de tres anos bajo la supervision de magistrados con experiencia y probada solvencia moral y profesional, quienes ejerceran de tutores.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_022",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Acceso limitado de los profesionales en el sector justicia para asumir cargos en el Poder Judicial. Meta:\n- Promoveremos el ingreso de jueces jovenes a la carrera judicial. Problema: Corrupcion al interior del Poder Judicial y del Ministerio Publico. Objetivo:\n- Estableceremos mecanismos y canales destinados a denunciar irregularidades dentro del Poder Judicial y del Ministerio Publico. Los organos de control de dichas instituciones pasaran a depender de la Junta Nacional de Justicia, que sera la entidad que aplicara las sanciones a los jueces y fiscales. Indicador:\n- Segun la ONU, las instituciones mas afectadas por la corrupcion se encuentran el poder judicial y la policia.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_023",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Meta:\n- Promoveremos el estado de derecho en el plano nacional y garantizar la igualdad del acceso a la justicia para todos los peruanos, adecuandonos a las Metas del Objetivo 16 de la Agenda 2030 de la ONU. - Junta Nacional de Justicia con nuevas funciones frente al combate contra la corrupcion. Problema: Excesiva carga procesal. Objetivo:\n- Promulgaremos una ley que determine que las controversias comerciales cuya cuantia sea superior a las 10 UIT se tramiten exclusivamente por la via arbitral. Esto disminuira la carga de procesos en el Poder Judicial, haciendo mas eficientes, rapidos y transparentes de los procesos seguidos en la via judicial.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_024",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Lentitud en la resolucion de los procesos judiciales y administrativos. Meta:\n- Impulsaremos la promulgacion de la ley destinada a fortalecer la jurisdiccion arbitral. Problema: Escasez de recursos para el Sector Defensa. Reducida capacidad disuasiva. Objetivo:\n- Modernizaremos y fortaleceremos a las Fuerzas Armadas, incrementando su capacidad disuasiva para la defensa nacional. Terminaremos de pacificar el VRAEM, fortaleceremos la presencia de Las FFAA en la zona del Putumayo. Impulsaremos las industrias y la ingenieria militares para la construccion de carreteras de penetracion, se cubrira el deficit de viviendas en guarniciones. Se incentivara el ingreso al SMV subiendo el pago a un salario minimo legal. Arreglaremos el problema pensionario para los que ingresaron al servicio a partir del 2013 y corregiremos las escalas remunerativas del personal subalterno, fijando nuevos topes de acuerdo al grado y responsabilidad para todo el personal de las FFAA. Se dispondra y supervisara la estandarizacion de los sistemas de comunicaciones. Restituiremos la SEDENA, dependiente de la PCM, INDECI pasara a formar parte de la PCM. El sistema de salud de las FFAA no se puede comparar con el Minsa o Essalud, pues su prioridad es atender la salud del combatiente de manera inmediata y donde se presente el requerimiento. Crearemos la carrera publica para funcionarios civiles de Defensa. Crearemos el Centro de Anticipacion Estrategica para monitoreo de indicadores sensibles. Reforzaremos el sistema de Justicia Militar.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_025",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Desface y deficit de los equipos tecnicos e inoperativos en las Fuerzas Armadas. - Falta de incentivo economico y profesional para el ingreso al servicio militar. - Carencia de servicios salud que atiendan directamente a los combatientes. Meta:\n- Fortaleceremos las Fuerzas Armadas con equipamiento moderno y con mayor capacidad operativa. - Incentivaremos el interes de los jovenes para ingresar en las Fuerzas Armadas. Problema: Baja consideracion a la funcion policial. Objetivo:\n- Nos preocuparemos por el bienestar de la familia policial, asi como por su profesionalizacion. Para ello, promoveremos la creacion del Colegio Profesional del Policia. Dotaremos de las herramientas legales que permitan a la Policia desarrollar sin limitaciones su mandato legal y constitucional en favor de la ciudadania. Crearemos el Instituto de Investigacion y Desarrollo de la Policia y la Seguridad, con el fin de elevar el nivel cientifico, tecnologico y operativo de la Policia Nacional.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_026",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Ausencia del gobierno en la institucion policial, restandole autoridad. Meta:\n- Devolveremos la autoridad a la Policia Nacional del Peru en la vigilancia y el orden. - Impulsaremos la creacion del Colegio Profesional del Policia a fin de Potenciar y dignificar la funcion policial. Problema: Superintendencia Nacional de Migraciones se encuentra adscrita al Ministerio del Interior y no al Ministerio de Relaciones Exteriores. Objetivo:\n- Promoveremos que la Superintendencia Nacional de Migraciones dependa del Ministerio de Relaciones Exteriores, y no del nuevo Ministerio de Seguridad Ciudadana, con la finalidad de que el primer Ministerio tenga a su cargo todo lo relacionado a los extranjeros.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_027",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- La problematica de control migratorio de los ciudadanos extranjeros, que crea la necesidad de que esta oficina dependa de MRE. Meta:\n- La Superintendencia Nacional de Migraciones se encontrara adscrita al Ministerio de Relaciones Exteriores. Problema: Relaciones Multilaterales. Objetivo:\n- Impulsaremos desde el Ministerio de Relaciones Exteriores el Multilateralismo, fortaleciendo nuestra integracion Latinoamericana, incrementando las relaciones en Asia- Pacifico, Union Europea, America, Africa y Oceania, resguardando prioritariamente nuestra absoluta soberania. Indicador:\n- Deficit en las decisiones en el entorno de la esfera multilateral. - Debilidad del sistema multilateral por la enorme transformacion que venimos experimentando en el ambito internacional.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_028",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Meta:\n- Fortalecimiento en las relaciones multilaterales y bilaterales. Problema: Peruanos en el Exterior - PEX. Objetivo:\n- Seguiremos promoviendo los derechos de los Peruanos en el Exterior, fortaleciendo las 2 curules aprobadas en el Parlamento. Aprobaremos un Plan PEX que los beneficie. Indicador:\n- Mas de 3 millones y medio de Peruanos en el Exterior no cuentan con una norma que los ampare. Meta:\n- Trabajaremos por el reconocimiento de los Derechos de los PEX. Problema: Extranjeros en situacion irregular. Objetivo:\n- Promoveremos que los extranjeros en situacion irregular obtengan una calidad migratoria que les permita contribuir de manera economica al pais, para lo cual se eliminaran los tramites burocraticos establecidos en la norma migratoria.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_029",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Falta de mayor control en la migracion de los ciudadanos extranjeros. Meta:\n- Regularizacion de extranjeros. Problema: Obtencion de nacionalidad peruana a los dos anos de residencia. Objetivo:\n- Promoveremos la obtencion de la nacionalidad peruana a los 5 anos de residencia en territorio peruano, salvo la naturalizacion por matrimonio y por ser padre de hijo de peruano, en cuyo caso la nacionalidad se obtendra a los 2 anos de residencia. Asimismo, en el caso de extranjeros que quieran invertir en Peru a partir de S/ 500,000.00, podran obtener la Residencia inmediatamente, lo cual facilitara la obtencion de su nacionalidad.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_030",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- En los ultimos tiempos hemos visto la falta de restricciones en la obtencion de la nacionalidad peruana. Meta:\n- Modificacion de la Ley de Nacionalidad. Problema: Existen 18 calidades migratorias que puede obtener un extranjero. Objetivo:\n- Reduciremos las calidades migratorias y eliminaremos los tramites burocraticos para la obtencion de las mismas. Habra uniformidad de requisitos, en lo que sea aplicable, para obtener las calidades migratorias. Indicador:\n- Falta de uniformizacion en los tramites para obtener facilidades migratorias. Meta:\n- Extranjeros en situacion regular. Problema: Pago del Impuesto Predial cuando hay cesion gratuita a instituciones educativas. Objetivo:\n- Permitiremos a los propietarios de bienes inmuebles destinados para fines educativos, que puedan encontrarse exonerados del Impuesto Predial, cuando la cesion del bien inmueble es de manera gratuita.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_031",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Para la reactivacion economica, se requiere facilitar a los predios cedidos para fines educativos. Meta:\n- Eliminacion de la presuncion de obtencion de renta para efectos de cesiones gratuitas. Problema: Existencia de tres regimenes tributarios para efectos del Impuesto a la Renta. Objetivo:\n- Eliminaremos los regimenes tributarios para la creacion de uno solo que sea amigable y permita la formalizacion de emprendedores. Indicador:\n- Se ha notado muchas trabas burocraticas en la formalizacion de negocios. Meta:\n- Impulsaremos la formalizacion de emprendedores. Problema: Tasa impositiva del IGV elevado. Objetivo:\n- Reduciremos la Tasa del IGV para que los informales opten por regularizarse.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_032",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- El excesivo cobro en impuestos ahuyenta a los emprendedores a tener un negocio formal. Meta:\n- Reduccion de la Informalidad y mayor recaudacion fiscal. Problema: Amplias exoneraciones para efectos del Impuesto a la Renta y el IGV. Objetivo:\n- Reduciremos las exoneraciones para ampliar la base tributaria y con ello la recaudacion fiscal aumente. Indicador:\n- Compatibilidad con los paises de la OCDE. Meta:\n- Mayor recaudacion fiscal. Problema: No existe legislacion para el contribuyente, solo regulacion escasa en el Codigo Tributario. Objetivo:\n- Promoveremos la promulgacion de la Ley del Contribuyente, lo que evitara arbitrariedades de la Administracion Tributaria, mejor recaudacion y seguridad juridica.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_033",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- La problematica en el sistema tributario identificado como abuso hacia el contribuyente. Meta:\n- Promoveremos la Promulgacion de la Ley del Contribuyente. DIMENSION ECONOMICA\n\nProblema: Inestabilidad Economico- financiera a causa del mal manejo del gobierno en la Pandemia. Objetivo:\n- Garantizaremos medidas que permitan un crecimiento sostenido del PBI y una reducida inflacion promedio para los proximos 5 anos, asi como un tipo de cambio que favorezca la exportacion. Indicador:\n- Debido a la crisis sanitaria, el pais llego a tener 1,8% de inflacion a mayo de 2020, segun el BCRP. Meta:\n- Trabajaremos por el incremento anual del 2% del PBI hasta llegar al 7% al quinto ano.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_034",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Problema: Reducida industrializacion tecnologica en el sistema productivo. Objetivo:\n- Impulsaremos la industrializacion y la produccion de bienes y servicios de mayor valor agregado, diversificando los sectores productivos para reducir la dependencia a la explotacion de nuestras materias primas. Trabajaremos en la generacion de ventajas competitivas en nuestra economia, dotando al aparato productivo de un mayor contenido tecnologico, altos niveles de innovacion y creatividad, a fin de elevar de los niveles de productividad en todos los sectores. Indicador:\n- Deficit de sectores productivos en la generacion de empleos y carencia en el control de los estandares de calidad. Meta:\n- Promoveremos un aparato productivo mas industrializado, lo que permitira la generacion de dos millones de empleos nuevos y un incremento de la participacion de la industria nacional en todas las industrias e inversiones extranjeras en el Peru con mayores estandares de calidad.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_035",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Problema: Inexistente trabajo en jurisdicciones de pobreza extrema. Objetivo:\n- Pondremos especial empeno en la generacion de ingresos para los mas pobres, por medio de una retribucion por horas de trabajo en zonas rurales destinada a, entre otros, reparacion de andenes, reforestacion y bosque seco. En las ciudades el enfoque estara centrado en trabajos comunales. Indicador:\n- Falta de interes por parte del gobierno central y local en las zonas rurales y alejadas para ver la problematica que enfrentan sus habitantes. Meta:\n- Impulsaremos el trabajo digno e igualitario en las propias zonas rurales de los habitantes, para restar la pobreza extrema, para cumplir las Metas del Objetivo 10 de la Agenda 2030.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_036",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Problema: Falta de incentivos a las PYMEs como motor de desarrollo. Objetivo:\n- Crearemos el Instituto de Promocion y Desarrollo de las PYMEs, a fin de promover la formalizacion y la asociatividad empresarial, tanto en consorcios como en cadenas productivas, ciudades y parques industriales, y cooperativas. Promoveremos la exportacion de bienes y servicios producidos por PYMEs, apoyandolas en la colocacion de sus productos por medio de la creacion del CERTIPYME, certificado de calidad que permitira exportar los productos de las PYMEs al mundo. Indicador:\n- Falta de Clusters en el sector productivo e industrial para promover la Pequena y Mediana Empresa con una vision internacional.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_037",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Meta:\n- Crearemos el Instituto de Promocion y Desarrollo de las PYMEs con una vision de intercambio de productos a nivel internacional. Problema: Reducido financiamiento para las PYMEs. Objetivo:\n- Impulsaremos decididamente, en conjuncion con la iniciativa privada, el acceso al financiamiento para las PYMEs. En ese marco, apoyaremos la creacion del Banco Pyme, de capital privado. Indicador:\n- Falta de incentivo en el emprendimiento para la creacion de las PYMEs por falta de capital inicial. Meta:\n- Creacion del Banco PYME. Problema: Falta de apoyo a los mercados populares. Objetivo:\n- Impulsaremos la modernizacion de los mercados de abasto y centros comerciales, incluyendo la implementacion de mercados mayoristas y reorganizando integralmente el programa Mi Mercado.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_038",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- La crisis sanitaria ha visibilizado la falta de principales mercados de abastos a nivel nacional y sobre todo en Lima. Meta:\n- Promover mas y con mejores condiciones a los mercados de abastos y mayoristas. Problema: Muy reducidas Zonas Libres de Impuestos (zonas francas) para el desarrollo turistico, industrial y comercial. Objetivo:\n- Impulsaremos el desarrollo de Parques Logisticos y de Comercio Internacional, asi como Zonas Libres de Impuestos con paises limitrofes, especialmente en jurisdicciones con alto potencial de inversion. Indicador:\n- El incremento del contrabando es una falencia en la entidad estatal. Meta:\n- Seguiremos impulsando las Zonas de Libre Comercio, para contrarrestar el contrabando.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_039",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Problema: Reducida promocion de productos autoctonos. Objetivo:\n- Promoveremos el desarrollo industrial para el consumo interno y la exportacion de productos como la trucha, el paiche, la tilapia, la maca, el camu camu, la lucuma, el maiz gigante, el cuy, entre otros productos nativos. Incorporaremos mecanismos de promocion a la inversion inicial. Indicador:\n- Poca visibilidad de los productos de primera necesidad conocidos como originarios o de lugar. Meta:\n- Aumento y mejoramiento de la calidad de productos nativos. Problema: Reducida promocion de la produccion de productos artesanales. Objetivo:\n- Incorporaremos a las comunidades de las zonas rurales al trabajo familiar por medio de la artesania, promoviendo el uso de materiales e insumos regionales, capacitandolas para el conocimiento de nuevas tecnicas de elaboracion y comercializacion.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_040",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- La perdida de costumbres y tradiciones en el trabajo artesanal de las familias en las diferentes ciudades del Peru. Meta:\n- Aumento y mejoramiento de la calidad de productos artesanales e incentivo para seguir impulsando el trabajo artesanal familiar. Problema: Deficiente Sistema de transporte. Objetivo:\n- Potenciaremos el Sistema \"Metropolitano\" en el Peru, en estrecha cooperacion con las Municipalidades, para solucionar definitivamente el problema del transporte urbano. En Lima apoyaremos la conclusion de los sistemas masivos de transporte en marcha: Metropolitano y Tren Electrico. Impulsaremos decididamente mas Lineas del Metro. Indicador:\n- La problematica que presenta el transporte publico es un eje importante, para que haya un orden vial en las ciudades.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_041",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Meta:\n- Implementaremos mas lineas de transporte urbano a nivel nacional. Problema: Deficiente Infraestructura vial a nivel nacional. Objetivo:\n- Promoveremos decididamente la rehabilitacion y ampliacion de la Red Vial Nacional, en especial las carreteras de penetracion, que seran autopistas de cuatro carriles; participaran en su construccion batallones de ingenieria de las FFAA. Estas permitiran el desarrollo economico y social, y a lo largo de su recorrido se incrementara el turismo receptivo y mejorara las cadenas productivas para el despegue de las regiones. Indicador:\n- La problematica de conexion entre los pueblos del Peru es complicada por falta de carreteras y la falta de implementacion de vias y autopistas.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 1,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_042",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Meta:\n- Impulsaremos la construccion de autopistas y vias en buenas condiciones a nivel nacional para las conexiones entre pueblos vecinos, ejemplo: conectar Jaen, Cajamarca, Chota, Cutervo, Pomalca y otras ciudades del Peru. Problema: Deficiente infraestructura y servicios portuarios y aeroportuarios. Objetivo:\n- Potenciaremos el puerto del Callao y puertos del pais, para consolidar al Peru como eje del transporte de carga en Sudamerica con la finalidad de aumentar nuestras exportaciones y el empleo. Impulsaremos la modernizacion, el desarrollo y la seguridad del aeropuerto del Callao y de los del pais, aumentando salas de embarque, capacidad de almacenamiento de carga, y asegurando una mayor oferta de servicios de atencion aeroportuaria.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 1,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_043",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- El incremento del transito en los Aeropuertos y Puertos del Peru, han mostrado la importante tarea de ampliar la capacidad de recepcion de pasajeros y de carga. Meta:\n- Impulsar el inicio de la construccion de la 2da pista del AIJCH y continuar con la ampliacion de los muelles del puerto del Callao. - Promoveremos la implementacion de mas puertos de carga para el intercambio comercial. Problema: Marcado deficit de redes ferroviarias a nivel nacional. Objetivo:\n- Recuperaremos la conectividad interna y externa del Peru, con redes ferroviarias modernas que transporten pasajeros y cargas con mayor seguridad y eficiencia, promoviendo asociaciones de gobierno a gobierno.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 1,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_044",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Los paises desarrollados nos han demostrado la importancia de la conexion ferroviaria. - En Peru los proyectos en este aspecto son poco considerados por el alto coste en la implementacion de estos. Meta:\n- Promoveremos la construccion de la linea ferroviaria que una Tumbes y Tacna con la finalidad de concluirla al 5to ano de nuestro Gobierno. - Impulsaremos el Tren Bioceanico que conecta los oceanos Atlantico y Pacifico. Problema: Deficiente conectividad de internet para el pais. Objetivo:\n- Impulsaremos que los proveedores de comunicacion via internet abastezcan de comunicacion digital (banda ancha) a todo el territorio nacional, a precios asequibles.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_045",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- La insuficiente partida en el ambito tecnologico y cientifico ha demostrado la precariedad de la comunicacion digital, sobre todo en la parte educativa. Meta:\n- Fomentaremos la conectividad digital a nivel nacional. Problema: Deficiente apoyo a la actividad agropecuaria. Objetivo:\n- Implementaremos la Ley de la Defensoria del Campesino y un marco juridico facilitador y predecible. Fortaleceremos la capacidad institucional y las carreras publicas especializadas para la aplicacion efectiva y expeditiva de este marco regulatorio de la actividad agropecuaria. Indicador:\n- Las movilizaciones sociales en el sector agrario han desvelado la carencia de la promocion y reconocimiento del trabajo en dicho sector.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_046",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Meta:\n- Creacion de la Defensoria del Campesino. - Seguir impulsando un trabajo digno y reconocido hacia los trabajadores agropecuarios. Problema: Excesivas regulaciones para lograr una eficiente administracion y distribucion de los recursos hidricos. Objetivo:\n- Impulsaremos la Autoridad de Cuencas para planear y gestionar de manera integrada la infraestructura fisica de los sistemas productivos y el manejo de los recursos naturales, por medio de las regulaciones ambientales, las normas de comercializacion y sanitarias, concertando a las organizaciones de productores con los gobiernos locales y regionales. Indicador:\n- La ausencia de vigilancia en el principal recurso de nuestras vidas, que emana de una Cuenca hidrografica puede hacer que en los proximos anos venideros carezcamos de la fuente principal como es el Agua.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_047",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Meta:\n- Creacion de la Autoridad de Cuencas como organismo autonomo. Problema: Deficiente Investigacion, desarrollo y gestion en el ambito agricola. Objetivo:\n- Construiremos un sistema de investigacion desde cada valle y cuenca, con los mejores agricultores y el soporte de instituciones universitarias e institutos especializados - publicos y privados- con la mas alta excelencia cientifica. Promoveremos y suscribiremos acuerdos con los mejores centros de investigacion mundial y contrataremos a profesionales calificados en la comunidad cientifica internacional, para colocar al Peru como potencia mundial en las aplicaciones de su biodiversidad. Promoveremos un agro libre de transgenicos. Indicador:\n- El ruido sobre la proliferacion de los alimentos con transgenicos nos ha puesto en alerta y ha desvelado la inseguridad alimentaria.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 1
+    }
+  },
+  {
+    "id": "Renovacion_Popular_048",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Meta:\n- Creacion de un eficiente sistema de I&D en cada cuenca y valle agricola. - Impulsaremos la produccion de los alimentos organicos. Problema: Deficiente comercializacion de los productos agrarios. Objetivo:\n- Apoyaremos a las organizaciones de los empresarios agrarios para gestionar los clusters y cadenas productivas de los principales productos de sus regiones y promoveremos mas y mejores mecanismos de asociatividad, a efectos de lograr mejoras en la comercializacion de sus productos, obtencion de creditos, transferencia de tecnologias, emprendimiento de nuevas inversiones y realizacion de programas de capacitacion permanente. Indicador:\n- La falta de zonas especializadas para el comercio de los principales productos agropecuarios crea la necesidad de impulsar clusters en el sector.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_049",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Meta:\n- Impulsaremos el fortalecimiento de las organizaciones agrarias. DIMENSIÓN TERRITORIAL - AMBIENTAL \n\nProblema: Deficiente control de las emisiones de gases de efecto invernadero \n\nObjetivo:\n- Controlaremos las emisiones de gases de efecto invernadero y contaminantes debido a que el Perú, uno de los 10 países con mayor biodiversidad en el mundo y firmante del Convenio de Kyoto, es sumamente sensible a los desastres naturales que el cambio climático origina. Indicador:\n- Altos índices de material particulado inferior a 10 micras. - Aumento del índice de radiación ultravioletas según la Vigilancia Atmosférica Global. Meta:\n- Trabajaremos por la reducción significativa de la emisión de los gases de efecto invernadero.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 1,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_050",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Problema: Deficiente manejo de los recursos hidricos. Objetivo:\n- Estableceremos mecanismos de caracter obligatorio para evitar que las municipalidades y las empresas publicas y privadas viertan desechos peligrosos, desperdicios y aguas residuales a los cuerpos de agua naturales, y fomentaremos el tratamiento de aguas contaminadas con asociaciones publico- privadas. Reforzaremos la institucionalidad y facultades del Consejo Nacional del Agua para un eficiente manejo tecnico de las cuencas. Aumentaremos el servicio de agua potable en todo el pais. Se implementara un programa de emergencia de \"agua en la esquina\", para cubrir las necesidades inmediatas de la poblacion. Indicador:\n- Altos indices de desechos y residuos solidos en rios y cuencas.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_051",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "- Contaminacion del agua por el vertimiento de relaves Mineros, aguas servidas urbanas y desagues industriales a lo largo de todo su cauce. - Falencias en la recoleccion de servicios y escaza valorizacion de residuos organicos e inorganicos. Meta:\n- Desarrollar una eficiente administracion en los Recursos Hidricos a fin de contar con agua de calidad, para cumplir las Metas del objetivo 6 de la Agenda 2030 de la ONU. Problema: Deficiente proteccion de los bosques. Objetivo:\n- Protegeremos los bosques contra la tala indiscriminada respetando el habitat de las poblaciones que viven en ellos. Realizaremos una energica politica de reforestacion en zonas afectadas. Impulsando su explotacion sustentada y un inventario de los mismos. Promoveremos la produccion de madera certificada.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_052",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Disminucion de bosques de manera significativa5. Meta:\n- Promoveremos la reforestacion de 500 mil hectareas en forma anual hasta llegar a los 2 millones con el apoyo de reservistas. - Ajustar las politicas de desarrollo sostenible al Objetivo 15 de la Agenda 2030 de \"Vida de Ecosistemas Terrestres\". Problema: Deficiente proteccion de los recursos marinos. Objetivo:\n- Promoveremos la pesca sostenible y responsable con los recursos marinos, mitigando el impacto de los residuos solidos y liquidos propios de esta actividad industrial. Promoveremos la acuicultura de especies marinas, fluviales y lacustres. Indicador:\n- Contaminacion y acidificacion en el oceano que provoca un efecto desfavorable sobre el ecosistema y la biodiversidad marina.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_053",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Meta:\n- Impulsaremos la promocion de la pesca sostenible e implementacion de PYMEs de acuicultura en forma transversal, entre la costa y la selva. - Desarrollaremos politicas que esten encauzadas con las Metas del Objetivo 14 de la Agenda 2030. Problema: Deficiente gestion de los recursos renovables y no renovables. Objetivo:\n- Garantizaremos el uso sostenible de los recursos naturales renovables y no renovables, a traves de herramientas efectivas que garanticen una adecuada gestion de la explotacion minera, pesquera, agroindustrial, forestal y demas sectores. Evitaremos la degradacion de ecosistemas que amenazan con la extincion de la fauna y flora, orientandonos a su proteccion. Pondremos freno a la destruccion y trafico ilegal de la diversidad biologica.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_054",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Deficit de energia en el Norte y Sur del Pais. Meta:\n- Mejoramiento de la redistribucion de los recursos energeticos naturales a traves de una gestion efectiva de la diversidad biologica y ecosistemas. Problema: Deficiente proteccion de las comunidades nativas y originarias. Objetivo:\n- Protegeremos a las comunidades nativas y originarias respetando y manteniendo su cultura con un enfoque pluricultural y multilingue. Fomentaremos las areas naturales protegidas y los bosques nacionales donde los nativos puedan desarrollar sus actividades tradicionales, de tal manera que se les permita la extraccion de su sustento en su habitat natural. Suscribiremos convenios que fueren necesarios garantizandoles la seguridad sobre la propiedad de sus tierras y los recursos naturales.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_055",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Amenaza de perdida de costumbres y tradiciones en las comunidades nativas. - Falta vigilancia en los alrededores de las comunidades nativas que se sienten amenazadas por la deforestacion y tala de los bosques. Meta:\n- Fortaleceremos la proteccion de las comunidades nativas y originarias brindandoles seguridad sobre sus recursos y el mantenimiento de su cultura. Problema: Reducida inversion en la Amazonia. Objetivo:\n- Fomentaremos la pequena y mediana inversion nacional en la Amazonia en alianza con las comunidades nativas locales, para lo cual recibiran capacitacion y acompanamiento por parte del Estado, a fin de que estos emprendimientos en especies propias -como el cafe, el cacao, el camu-camu, entre otras materias primas, permitan disminuir la brecha de pobreza y mejorar la calidad de vida.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_056",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Falta de orientacion y capacitacion a la poblacion de las comunidades nativas para la produccion y venta de sus productos. Meta:\n- Impulsaremos el incremento significativo de recursos y financiamiento para las comunidades nativas y sus productos originarios. Problema: Falta de conciencia y educacion ambiental. Objetivo:\n- Garantizaremos el derecho del acceso a la informacion publica sobre las politicas, normas y medidas a tomar por el gobierno, en caso de afectaciones al medio ambiente y ecologia o cualquier dano ocasionado a la nacion. Promoveremos la educacion ambiental efectiva, a fin de formar ciudadanos participativos, responsables, pensadores criticos, participativos, conscientes y respetuosos del medio ambiente y el cuidado a la ecologia.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 0,
+      "Q7": 1,
+      "Q8": 1,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_057",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Ausencia por parte del gobierno en la concientizacion del ciudadano en la proteccion del medio ambiente. Meta:\n- Fomentaremos la educacion de conservacion del medio ambiente por medio del acceso a la informacion y participacion ciudadana. Problema: Deficiente generacion de energia limpia. Objetivo:\n- Como parte de nuestro Plan Energetico Nacional, priorizaremos la generacion de energia limpia hidroelectrica, desarrollando concesiones de generacion, transmision y distribucion electrica, y fomentaremos, mediante incentivos a la inversion privada, electricidad para los pueblos rurales y aislados, destinada a mejorar la calidad de vida de todos los ciudadanos. Indicador:\n- Falta de adopcion de politicas en generar energia limpia y el mantenimiento de la energia termica generada por hidrocarburos, como gas, petroleo y diesel, generando particulas (PM 2.5), dioxido de azufre y de nitrogeno que afectan la calidad del aire.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 1,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_058",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Meta:\n- Promoveremos y priorizaremos las fuentes de energias limpias generadas desde la Hidraulica, Eolica y Solar. Problema: Deficiente distribucion de gas. Objetivo:\n- El gas de Camisea sera destinado principalmente para atender la demanda interna. Promoveremos la construccion de gaseoductos regionales para satisfacer la demanda con concesiones de distribucion del gas hasta la puerta de cada casa. Indicador:\n- El coste elevado del gas hace que parte de la ciudadania no tenga acceso al mismo. Meta:\n- Incrementaremos de manesa sostenida el consumo de gas durante los 5 anos de gestion. Problema: Deficiente empleo de gas natural. Objetivo:\n- Impulsaremos proyectos que utilicen el gas natural para proporcionar agua en la costa, con la finalidad de irrigar zonas actualmente deserticas y dotar de agua y desague a poblaciones costeras aisladas.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_059",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- Falta de agilizacion en el desarrollo del proyecto gas natural. Meta:\n- Trabajaremos para Proporcionar energia a Gas para la Costa, Sierra y Selva. Problema: Deficiente participacion nacional en la modernizacion de la mineria. Objetivo:\n- Impulsaremos la inversion en tecnologia y procedimientos de ultima generacion para la mineria, con la finalidad de contar con una industria moderna, limpia y cuidadosa del medio ambiente. Impulsaremos la investigacion geologica que permita la explotacion de nuevos yacimientos. Adicionalmente a ello, fomentaremos procesos que den un mayor valor agregado a nuestras materias primas, con la finalidad de aumentar la exportacion de productos terminados.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 1,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_060",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Indicador:\n- La falta de informacion sobre la exploracion minera en aquellas zonas que dependen de la agricultura ha generado una desconfianza en los habitantes. Meta:\n- Promoveremos la modernizacion de la mineria con respeto al Medio Ambiente y compatible con la Agricultura. IV. PROPUESTA DE RENDICION DE CUENTAS SOBRE EL CUMPLIMIENTO DEL PLAN\nLo primero que se hara es verificar el presupuesto que se tiene en las arcas\nfiscales, para establecer lo que se recibio y a cuanto incremento el\npresupuesto al finalizar nuestro gobierno. Por otro lado, nuestro compromiso en la disciplina fiscal es tener una\ninflacion inferior al 2.5% y proyectamos el crecimiento anual del PBI al 7%,\nal culminar nuestro mandato.",
+    "relevancia": {
+      "Q1": 0,
+      "Q2": 0,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 1,
+      "Q6": 1,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  },
+  {
+    "id": "Renovacion_Popular_061",
+    "partido": "Renovacion Popular",
+    "tipo_fuente": "texto",
+    "bloque": "Por ultimo, anualmente el Presidente informara en el Discurso de 28 de\njulio, sobre el cumplimiento del presente Plan de Gobierno, ante la\nrepresentacion nacional.",
+    "relevancia": {
+      "Q1": 1,
+      "Q2": 1,
+      "Q3": 0,
+      "Q4": 0,
+      "Q5": 0,
+      "Q6": 0,
+      "Q7": 0,
+      "Q8": 0,
+      "Q9": 0,
+      "Q10": 0
+    }
+  }
+]

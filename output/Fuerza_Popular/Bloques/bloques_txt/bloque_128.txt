@@ -1,0 +1,11 @@
+Sistemas de informacion
+A nivel general del sistema se cuentan con bases de datos que permiten conocer el
+estado general a nivel de estudiantes, docentes, instituciones educativas,
+infraestructura, entre otros elementos claves. Sin embargo, existen algunas
+limitaciones particulares:
+* El Censo Educativo cubre la basica y la superior, pero no la superior
+universitaria. Ademas, de ano a ano se producen cambios en el recojo de
+determinadas variables que dificultan el procesamiento y trazabilidad. * El Sistema de Recoleccion de Informacion para Ediucacion Superior (SIRIES) es
+una fuente de informacion sobre la educacion superior universitaria que maneja
+el Ministerio de Educacion (MINEDU); sin embargo, este es incompleto pues el
+reporte de informacion es voluntario.
